@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Следующая",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "Начало работы",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Licenses": {
+    "message": "Лицензии",
+    "description": "The label for category Licenses in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Application": {
+    "message": "Приложение",
+    "description": "The label for category Application in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Proxy": {
+    "message": "Прокси",
+    "description": "The label for category Proxy in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Browser": {
+    "message": "Браузер",
+    "description": "The label for category Browser in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Integrations": {
+    "message": "Интеграции",
+    "description": "The label for category Integrations in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Undetectable Docs",
+    "description": "The title in the navbar"
+  },
+  "item.label.Home": {
+    "message": "Главная",
+    "description": "Navbar item with label Home"
+  },
+  "item.label.Pricing": {
+    "message": "Тарифы",
+    "description": "Navbar item with label Pricing"
+  },
+  "item.label.Changelog": {
+    "message": "История Изменений",
+    "description": "Navbar item with label Changelog"
+  }
+}
