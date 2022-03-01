@@ -7,14 +7,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Undetectable Docs",
-  tagline: "Dinosaurs are cool",
   url: "https://docs.undetect.me",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "undetectable-io", // Usually your GitHub org/user name.
+  projectName: "undetectable-docs", // Usually your repo name.
 
   i18n: {
     defaultLocale: "en",
@@ -87,13 +86,6 @@ const config = {
       },
       footer: {
         style: 'light',
-        logo: {
-          alt: 'Undetectable logo',
-          src: 'img/logo.svg',
-          width: 50,
-          height: 50,
-        },
-        copyright: `Copyright © ${new Date().getFullYear()}  Undetectable. All rights reserved.`,
         links: [
           {
             title: 'Undetectable',
