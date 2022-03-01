@@ -21,5 +21,3 @@ The browser was tested on:
 - Windows 7 and later
 - MacOS High Sierra
 - MacOS Catalina
-
-test
