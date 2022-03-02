@@ -64,18 +64,18 @@ const config = {
           {
             position: "left",
             label: "Home",
-            href: "https://undetectable.io/",
+            to: "https://undetectable.io/",
           },
           {
             position: "left",
             label: "Pricing",
-            href: "https://undetectable.io/pricing/",
+            to: "https://undetectable.io/pricing/",
           },
 
           {
             position: "left",
             label: "Changelog",
-            href: "https://undetectable.io/changelog/",
+            to: "https://undetectable.io/changelog/",
           },
 
           {
@@ -92,19 +92,19 @@ const config = {
             items: [
               {
                 label: 'Use Cases',
-                href: 'https://undetectable.io/#use__cases',
+                to: 'https://undetectable.io/#use__cases',
               },
               {
                 label: 'Advantages',
-                href: 'https://undetectable.io/#benefits',
+                to: 'https://undetectable.io/#benefits',
               },
               {
                 label: 'FAQ',
-                href: 'https://undetectable.io/#faq',
+                to: 'https://undetectable.io/#faq',
               },
               {
                 label: 'Pricing',
-                href: 'https://undetectable.io/pricing/',
+                to: 'https://undetectable.io/pricing/',
               },
             ],
           },
@@ -113,15 +113,15 @@ const config = {
             items: [
               {
                 label: 'Telegram Support',
-                href: 'https://undetectable.io/pricing/',
+                to: 'https://undetectable.io/pricing/',
               },
               {
                 label: 'Skype Support',
-                href: 'skype:live:.cid.71ef0b3466281e13?chat',
+                to: 'skype:live:.cid.71ef0b3466281e13?chat',
               },
               {
                 label: 'Email Support',
-                href: 'mailto:support@undetectable.io',
+                to: 'mailto:support@undetectable.io',
               },
             ],
           },
@@ -130,15 +130,15 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                href: 'https://undetectable.io/blog/',
+                to: 'https://undetectable.io/blog/',
               },
               {
                 label: 'Changelog',
-                href: 'https://undetectable.io/changelog/',
+                to: 'https://undetectable.io/changelog/',
               },
               {
                 label: 'Partners',
-                href: 'https://undetectable.io/partners/',
+                to: 'https://undetectable.io/partners/',
               },
             ],
           },
@@ -147,15 +147,15 @@ const config = {
             items: [
               {
                 label: 'Terms of Service',
-                href: 'https://undetectable.io/terms-of-service/',
+                to: 'https://undetectable.io/terms-of-service/',
               },
               {
                 label: 'Privacy Policy',
-                href: 'https://undetectable.io/privacy-policy/',
+                to: 'https://undetectable.io/privacy-policy/',
               },
               {
                 label: 'Partners',
-                href: 'https://undetectable.io/partners/',
+                to: 'https://undetectable.io/partners/',
               },
             ],
           },
