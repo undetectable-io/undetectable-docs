@@ -39,10 +39,10 @@ Check the price list here.
 
 Several tariffs are available:
 
-- **Starter** – 75$/mo: 2 users and 20 free configs.
-- **Team** – $169/mo: 5 users and 30 free configs.
-- **Business** – $299/mo: 10 users and 50 free configs.
-- **Custom.** Plans include 10 users + $25 each additional user: 10 users – $299 + each user 25% = $234. This plan can be activated from 11 users and more.
+- **Starter** – 25$ / 7 days: 1 user and 30 free configs.
+- **Base** – $75 / 30 days: 2 users and 30 free configs.
+- **Team** – $169 / 30 days: 5 users and 50 free configs.
+- **Custom** - $299 / 30 days: 10 users and 80 free configs. + $25 each additional user. This plan can be activated from 10 users and more.
 
 You can also buy the plan for 6 months or 12 months and get a discount. In the first case, it is 15% off the total, in the second – 30%.
 
