@@ -1,0 +1,50 @@
+{
+  "link.title.Undetectable": {
+    "message": "Undetectable"
+  },
+  "link.title.Support": {
+    "message": "Поддержка"
+  },
+  "link.title.Resourses": {
+    "message": "Ресурсы"
+  },
+  "link.title.Legal": {
+    "message": "Документы"
+  },
+  "link.item.label.Use Cases": {
+    "message": "Применения"
+  },
+  "link.item.label.Advantages": {
+    "message": "Преимущества"
+  },
+  "link.item.label.FAQ": {
+    "message": "FAQ"
+  },
+  "link.item.label.Pricing": {
+    "message": "Тарифы"
+  },
+  "link.item.label.Telegram Support": {
+    "message": "Telegram"
+  },
+  "link.item.label.Skype Support": {
+    "message": "Skype"
+  },
+  "link.item.label.Email Support": {
+    "message": "Email"
+  },
+  "link.item.label.Blog": {
+    "message": "Блог"
+  },
+  "link.item.label.Changelog": {
+    "message": "Лог изменений"
+  },
+  "link.item.label.Partners": {
+    "message": "Партнёры"
+  },
+  "link.item.label.Terms of Service": {
+    "message": "Условия Использования"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Политика Конфиденциальности"
+  }
+}

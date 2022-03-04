@@ -25,6 +25,7 @@ const config = {
       // You can omit a locale (e.g. fr) if you don't need to override the defaults
       ru: {
         htmlLang: "ru-RU",
+
       },
     },
   },
@@ -167,10 +168,7 @@ const config = {
                 label: "Privacy Policy",
                 to: "https://undetectable.io/privacy-policy/",
               },
-              {
-                label: "Partners",
-                to: "https://undetectable.io/partners/",
-              },
+      
             ],
           },
         ],

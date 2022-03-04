@@ -1,11 +1,14 @@
 {
   "item.label.Home": {
-    "message": "Главная"
+    "message": "Главная",
+    "description": "Navbar item with label Home"
   },
   "item.label.Pricing": {
-    "message": "Тарифы"
+    "message": "Тарифы",
+    "description": "Navbar item with label Pricing"
   },
   "item.label.Changelog": {
-    "message": "История Изменений"
+    "message": "История Изменений",
+    "description": "Navbar item with label Changelog"
   }
 }
