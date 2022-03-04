@@ -31,7 +31,7 @@ There is a proxy manager that works in HTTPS or Socks5 modes, and also the abili
 
 In order to start using the anti-detect browser, the first thing you need to do is register an account to get a license. Go to https://app.undetectable.io , and fill in the registration fields: enter your login, mail and set a password. Then you get an e-mail with a code to verify the account.
 
-![Docusaurus logo](/img/docusaurus.png)
+![Docusaurus logo](/img/eng/web/login.png)
 
 Now you have to choose one of the license types, depending on your preference.
 

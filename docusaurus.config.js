@@ -29,6 +29,8 @@ const config = {
     },
   },
 
+  plugins: ["plugin-image-zoom"],
+
   presets: [
     [
       "classic",
@@ -53,6 +55,17 @@ const config = {
     ({
       hideableSidebar: true,
       autoCollapseSidebarCategories: true,
+      imageZoom: {
+        // CSS selector to apply the plugin to, defaults to '.markdown img'
+        selector: ".markdown img",
+        // Optional medium-zoom options
+        // see: https://www.npmjs.com/package/medium-zoom#options
+        options: {
+          margin: 100,
+          background: "var(--docsearch-hit-background)",
+          scrollOffset: 0,
+        },
+      },
       navbar: {
         logo: {
           alt: "Undetectable Logo",
@@ -85,77 +98,77 @@ const config = {
         ],
       },
       footer: {
-        style: 'light',
+        style: "light",
         links: [
           {
-            title: 'Undetectable',
+            title: "Undetectable",
             items: [
               {
-                label: 'Use Cases',
-                to: 'https://undetectable.io/#use__cases',
+                label: "Use Cases",
+                to: "https://undetectable.io/#use__cases",
               },
               {
-                label: 'Advantages',
-                to: 'https://undetectable.io/#benefits',
+                label: "Advantages",
+                to: "https://undetectable.io/#benefits",
               },
               {
-                label: 'FAQ',
-                to: 'https://undetectable.io/#faq',
+                label: "FAQ",
+                to: "https://undetectable.io/#faq",
               },
               {
-                label: 'Pricing',
-                to: 'https://undetectable.io/pricing/',
+                label: "Pricing",
+                to: "https://undetectable.io/pricing/",
               },
             ],
           },
           {
-            title: 'Support',
+            title: "Support",
             items: [
               {
-                label: 'Telegram Support',
-                to: 'https://undetectable.io/pricing/',
+                label: "Telegram Support",
+                to: "https://undetectable.io/pricing/",
               },
               {
-                label: 'Skype Support',
-                to: 'skype:live:.cid.71ef0b3466281e13?chat',
+                label: "Skype Support",
+                to: "skype:live:.cid.71ef0b3466281e13?chat",
               },
               {
-                label: 'Email Support',
-                to: 'mailto:support@undetectable.io',
+                label: "Email Support",
+                to: "mailto:support@undetectable.io",
               },
             ],
           },
           {
-            title: 'Resourses',
+            title: "Resourses",
             items: [
               {
-                label: 'Blog',
-                to: 'https://undetectable.io/blog/',
+                label: "Blog",
+                to: "https://undetectable.io/blog/",
               },
               {
-                label: 'Changelog',
-                to: 'https://undetectable.io/changelog/',
+                label: "Changelog",
+                to: "https://undetectable.io/changelog/",
               },
               {
-                label: 'Partners',
-                to: 'https://undetectable.io/partners/',
+                label: "Partners",
+                to: "https://undetectable.io/partners/",
               },
             ],
           },
           {
-            title: 'Legal',
+            title: "Legal",
             items: [
               {
-                label: 'Terms of Service',
-                to: 'https://undetectable.io/terms-of-service/',
+                label: "Terms of Service",
+                to: "https://undetectable.io/terms-of-service/",
               },
               {
-                label: 'Privacy Policy',
-                to: 'https://undetectable.io/privacy-policy/',
+                label: "Privacy Policy",
+                to: "https://undetectable.io/privacy-policy/",
               },
               {
-                label: 'Partners',
-                to: 'https://undetectable.io/partners/',
+                label: "Partners",
+                to: "https://undetectable.io/partners/",
               },
             ],
           },
