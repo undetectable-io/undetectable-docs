@@ -2,6 +2,7 @@
 sidebar_position: 7
 id: bot-cookies
 title: Bot for collectiong cookies
+custom_edit_url: null
 ---
 
 # Bot for collecting cookies
@@ -10,11 +11,11 @@ title: Bot for collectiong cookies
 
 Start the bot by clicking the button Bot on the left of the platform working space.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 The following window will open:
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 ## The Bot Functionality
 
@@ -32,18 +33,18 @@ At the moment, there are three scripts available for the bot to work:
 
 The scripts can be paused and resumed as needed. With the “Timer” option, you can flexibly adjust the time you spend on the site and the intervals between actions. Or select Random interval, so that the bot is randomly located on the site within the time from and to the time set by the user.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 ## Import links
 
 Links can be imported using the Import links button. To do this, select a text file with a list of links, each on a new line and click the import button.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 ## Top Sites Generator
 
 We have added a small service app.undetectable.io/top-websites to generate popular sites, where you can select the desired country and number of sites. In a couple of seconds you will have a list of the most popular sites, which you can copy to our bot.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 Also in development are tools such as automatic transition to links on pages, as well as emulation of mouse movements. All of this will allow you to “warm up” your profile before registering on sites.

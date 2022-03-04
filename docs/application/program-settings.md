@@ -2,6 +2,7 @@
 sidebar_position: 8
 id: program-settings
 title: Program Settings
+custom_edit_url: null
 ---
 
 # Program Settings
@@ -17,13 +18,13 @@ title: Program Settings
 - Viewing the log folder.
 - Viewing a profile folder.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 ## Profiles
 
 This section contains quick profile settings.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 ## Scripts
 
@@ -32,7 +33,7 @@ Add scripts window:
 - Facebook Ads Status.js
 - Facebook Ads Token.js
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 ## About the program
 
@@ -42,4 +43,4 @@ This section shows general information about the program:
 - When the program was installed.
 - When was the last software update.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->

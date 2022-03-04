@@ -1,5 +1,6 @@
 ---
 sidebar_position: 7
+custom_edit_url: null
 ---
 
 # Бот для сбора куки файлов

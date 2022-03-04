@@ -2,6 +2,7 @@
 sidebar_position: 5
 id: config-manager
 title: Configuration Manager
+custom_edit_url: null
 ---
 
 # Configuration Manager
@@ -10,7 +11,7 @@ title: Configuration Manager
 
 A configuration is a set of data collected from real browsers and devices. By selecting a particular configuration in the program when you create a browser profile, all of your system’s fingerprints will be replaced with those from the configuration.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png)  -->
 
 ## What does configuration includes
 
@@ -29,7 +30,7 @@ Each configuration consists of:
 
 Some parameters can be randomized or disabled in the system profile settings.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 ## Advantages of configurations management
 
@@ -42,13 +43,13 @@ Why are our configurations better than randomly generated fingerprints?
 
 ## What it looks like working with configurations on the new control panel
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 At creation of the most convenient Configuration Store we have added search functions by User-Agent and WebGL and the ability to select configurations by number of processor cores, size of the RAM and screen resolution.
 
 A limited number of free configurations will be available at various plans, but you can buy additional configurations for $1. Configurations are sold exclusively to one person.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 Also we have developed an accumulative bonus program:
 

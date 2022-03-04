@@ -2,6 +2,7 @@
 sidebar_position: 3
 id: profiles-manager
 title: Profile manager
+custom_edit_url: null
 ---
 
 # Profile manager
@@ -10,12 +11,12 @@ The Profile Manager functionality is provided for more efficient profile managem
 
 To open the profile manager, click the icon in the left panel.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 The following window will open:
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 Clicking the Edit button gives us access to edit profile names, select their tags, and write notes. After making changes, click save.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->

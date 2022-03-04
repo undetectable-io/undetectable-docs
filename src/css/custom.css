@@ -13,6 +13,7 @@
   --ifm-color-primary-light: #4f72f0;
   --ifm-color-primary-lighter: #5c7df1;
   --ifm-color-primary-lightest: #849df5;
+
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -46,3 +47,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   font-weight: 600;
 }
 
+main > div.container {
+  max-width: 90% !important;
+}

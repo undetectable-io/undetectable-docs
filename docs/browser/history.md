@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+custom_edit_url: null
 ---
 
 # History of views
@@ -7,4 +8,4 @@ sidebar_position: 3
 In the browser you can open the browsing history, clear it or reopen the desired tab.
 
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+custom_edit_url: null
 ---
 
 # Changing the tariff
@@ -10,7 +11,7 @@ When choosing a tariff, look carefully at all the add-ons it includes. Absolutel
 
 There are restrictions only on how many devices you will use the purchased license from.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 Starter – $75 per month: 2 users and 20 free configurations.
 
@@ -25,11 +26,11 @@ You can also buy the plan for 6 months or 12 months and get a discount. In the f
 ## Change and modification of tariff
 Each purchased tariff is valid for one month from the date of purchase. Then you can buy another plan or continue to pay for your existing plan by clicking on the “Renew” button.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 In order to modify the tariff, click “Change license edition”.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 You can change your license at any time by paying the difference between the tariffs and the days you’ve already used on the tariff you bought. 
 

@@ -1,5 +1,6 @@
 ---
 sidebar_position: 8
+custom_edit_url: null
 ---
 
 # Настройки программы

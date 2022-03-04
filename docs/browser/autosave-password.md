@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+custom_edit_url: null
 ---
 
 # Autosave passwords
@@ -9,7 +10,7 @@ sidebar_position: 1
 To avoid losing account data (logins and passwords), we have made a separate tab Accounts in every profile you create.
 
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 In this tab we fill in:
 
@@ -24,7 +25,7 @@ In most cases, manual setting of these parameters is not required.
 
 You can also mass import and export a list of websites with accounts in .tsv format (data is separated by a tabulation symbol).
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 ## What should I do if I can’t save a password?
 If you can’t save your password on a website, contact our support team:
