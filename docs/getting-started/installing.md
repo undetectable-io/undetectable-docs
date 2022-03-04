@@ -38,8 +38,11 @@ Depending on the distributive version, the installer will need to download updat
 <!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 If you do not have the Microsoft Visual C++ component installed, Click Next and wait for installation. In our case the component is already installed, we skip this step.
+
 <!-- ![Docusaurus logo](/img/docusaurus.png) -->
+
 Browser installation is complete! Click Next
+
 <!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 ## License setup

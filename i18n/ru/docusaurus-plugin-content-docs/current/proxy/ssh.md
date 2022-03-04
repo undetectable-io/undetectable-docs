@@ -12,21 +12,21 @@ custom_edit_url: null
 2. Запускаем
 3. Вводим хост и порт от вашего SSH туннеля
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 4. Настраиваем локальный порт, к которому будем подключаться из Undetectable (он может быть любым, главное чтобы был свободен). Тип Dynamic Ipv4. Жмем Add.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 5. После этого, можете вернуться в раздел Sessions и сохранить настройки, чтобы не нужно было каждый раз вводить данные.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 6. Жмем Open, открывается терминал, в котором нужно ввести логин и пароль от вашего SSH туннеля
 
 7. После этого можете открывать Undetectable. В нем выбираете любой профиль и на вкладке Прокси настраиваете: тип прокси Socks5, Хост 127.0.0.1 и порт, который вы выбрали на четвертом шаге. Жмем Check для проверки.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 Таким образом можете запустить много SSH туннелей, запуская несколько копий Putty, вешая их на разные порты и подключаясь с разных профилей Undetectable к ним.
 
@@ -49,7 +49,7 @@ ssh root@10.10.10.10 -D 1080
 - Enter the local IP _127.0.0.1_
 - enter the _port_ you specified when configuring the ssh tunnel
 
-  ![Docusaurus logo](/img/docusaurus.png)
+  <!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 Когда поднимется ssh туннель, можно проверить работу прокси.
 

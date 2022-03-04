@@ -7,4 +7,4 @@ custom_edit_url: null
 
 В браузере есть возможность открыть историю просмотров, очистить ее или открыть нужную вкладку заново.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->

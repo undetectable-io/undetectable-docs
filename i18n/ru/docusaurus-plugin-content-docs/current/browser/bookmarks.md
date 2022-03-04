@@ -11,10 +11,10 @@ _Bookmark This Tab_ — добавление в закладки той вкла
 
 _Bookmark All Tab_ — добавление в закладки всех открытых вкладок браузера.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
 Сохраненную вкладку можно открыть заново, удалить или изменить название и URL.
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
 
-![Docusaurus logo](/img/docusaurus.png)
+<!-- ![Docusaurus logo](/img/docusaurus.png) -->
