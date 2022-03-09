@@ -12,7 +12,7 @@ custom_edit_url: null
 
 Ограничения есть только по тому, с какого количества устройств вы будете использовать приобретенную лицензию.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/changing-and-modifying-the-tariff/changing-and-modifying-the-tariff-1.png)
 
 ✔️ Стартовый — 75$ в месяц: 2 пользователя и 20 бесплатных конфигураций. 
 
@@ -28,11 +28,11 @@ custom_edit_url: null
 
 Каждый купленный тариф действует месяц с момента покупки. Далее вы можете купить другой тариф или продолжить оплачивать подписку уже купленного, нажав на кнопку “Продлить”.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/changing-and-modifying-the-tariff/changing-and-modifying-the-tariff-2.png)
 
 Для того, чтобы модифицировать тариф, перейдите по ссылке “Изменить редакцию лицензии”
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/changing-and-modifying-the-tariff/changing-and-modifying-the-tariff-3.png)
 
 Вы можете изменить свою лицензию в любое время, для этого вам нужно будет доплатить разницу между тарифами и днями, которые вы использовали уже на купленном тарифе. 
 
