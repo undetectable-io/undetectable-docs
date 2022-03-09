@@ -9,14 +9,14 @@ custom_edit_url: null
 
 To create the first profile to work with, you must click on “Plus” in the browser menu:
 
-![Docusaurus logo](/eng/sw/new-profile-1.png)
+![Docusaurus logo](/img/eng/sw/new-profile-1.png)
 
 1. Menu
 2. License term information, list of profiles
 3. Setting up a new profile
 4. Profile information for the profile you are creating
 
-![Docusaurus logo](/eng/sw/new-profile-2.png)
+![Docusaurus logo](/img/eng/sw/new-profile-2.png)
 
 Fill in the profile settings:
 - Profile name

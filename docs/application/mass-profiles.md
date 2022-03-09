@@ -14,22 +14,22 @@ For the most convenient and fast creations of profiles we made some additional f
 
 - mask, where you can select the params in the name, which will be in each created profile:
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/eng/mass-creation-of-profiles/mass-creation-of-profiles-1.png)
 
 - the ability to select several configurations at once:
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/eng/mass-creation-of-profiles/mass-creation-of-profiles-2.png)
 
 - and also we develop custom unloading of your profiles, where you will be able to change their parameters;
 
 2. Then click Generate – you can check if everything is filled in correctly.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/eng/mass-creation-of-profiles/mass-creation-of-profiles-3.png)
 
 It is possible to show / hide detailed information of each profile:
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/eng/mass-creation-of-profiles/mass-creation-of-profiles-4.png)
 
 3. Next, press the create button – the profiles have been created.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/eng/mass-creation-of-profiles/mass-creation-of-profiles-5.png)

@@ -12,22 +12,22 @@ custom_edit_url: null
 
 - маску, где можно выбрать параметры в названии, которые будут в каждом созданном профиле:
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/mass-creation-of-profiles/mass-creation-of-profiles-1.png)
 
 - возможность выбрать сразу несколько конфигураций:
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/mass-creation-of-profiles/mass-creation-of-profiles-2.png)
 
 - а также разрабатываем кастомную выгрузку ваших профилей, где у вас будет возможность менять их параметры;
 
 2. Далее, *нажимаем кнопку Генерация* — можно проверить всё ли верно заполнили.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/mass-creation-of-profiles/mass-creation-of-profiles-3.png)
 
 Есть возможность показать / скрыть детальную информацию каждого профиля:
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/mass-creation-of-profiles/mass-creation-of-profiles-4.png)
 
 3. Далее, *Нажимаем кнопку создать* — профили созданы.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/mass-creation-of-profiles/mass-creation-of-profiles-5.png)
