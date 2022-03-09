@@ -30,7 +30,7 @@ Each configuration consists of:
 
 Some parameters can be randomized or disabled in the system profile settings.
 
-![Docusaurus logo](/img/eng/sw/hardware-fingerprints.png)
+![Docusaurus logo](/img/eng/sw/hardware-prints.png)
 
 ## Advantages of configurations management
 

@@ -28,7 +28,7 @@ custom_edit_url: null
 
 Часть параметров можно рандомизировать либо отключить в системных настройках профиля..
 
-![Docusaurus logo](/img/rus/sw/hardware-fingerpeints.png)
+![Docusaurus logo](/img/rus/sw/hardware-fingerprints.png)
 
 ## Преимущества использования конфигураций
 
