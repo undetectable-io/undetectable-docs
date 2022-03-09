@@ -9,12 +9,12 @@ custom_edit_url: null
 
 Чтобы открыть менеджер профилей нажмите на левой панели на указанную иконку. 
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/sw/new-profile-1.png)
 
 Откроется следующее окно:
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/sw/new-profile-2.png)
 
 Нажав на кнопку Правка, у нас открывается доступ на редактирование имен профилей, выбор им тегов и написание заметок. После внесения правок, нажимаем кнопку сохранить.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/sw/new-profile-3.png)
