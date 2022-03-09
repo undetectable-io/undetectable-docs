@@ -6,19 +6,19 @@ customProps: {
   }
 ---
 
-# System Requirements
+# Системные требования
 
-## Minimum system requirements
-- 4GB RAM
-- 1 GB of free hard drive space
+## Минимальные системные тербования
+- 4 Гб ОЗУ
+- 1 ГБ свободного места на жестком диске
 
-Supported operating systems
-Only 64-bit operating systems are supported
+## Поддерживаемые операционные системы
+Поддерживаются только 65-битные операционные системы.
 
-MacOS with the M1 processor is supported
+Поддерживаются MacOS с процессором M1.
 
-The browser was tested on:
+Браузер тестировался на:
 
-- Windows 7 and later
-- MacOS High Sierra
-- MacOS Catalina
+- Windows 7 и выше;
+- MacOS High Sierra;
+- MacOS Catalina.
