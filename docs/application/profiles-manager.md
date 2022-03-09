@@ -11,12 +11,12 @@ The Profile Manager functionality is provided for more efficient profile managem
 
 To open the profile manager, click the icon in the left panel.
 
-![Docusaurus logo](/img/eng/sw/new-profile-1.png)
+<!-- ![Docusaurus logo](/img/eng/sw/new-profile-1.png) -->
 
 The following window will open:
 
-![Docusaurus logo](/img/eng/sw/new-profile-2.png)
+<!-- ![Docusaurus logo](/img/eng/sw/new-profile-2.png) -->
 
 Clicking the Edit button gives us access to edit profile names, select their tags, and write notes. After making changes, click save.
 
-![Docusaurus logo](/img/eng/sw/new-profile-3.png)
+<!-- ![Docusaurus logo](/img/eng/sw/new-profile-3.png) -->

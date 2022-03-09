@@ -7,7 +7,7 @@ custom_edit_url: null
 
 Для создания первого профиля для работы необходимо в меню браузера нажать на “Плюс”:
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/sw/new-profile-1.png)
 
 После чего рабочая область браузера поделится на 4 части:
 
@@ -16,7 +16,7 @@ custom_edit_url: null
 3. Настройка нового профиля
 4. Информация создаваемого профиля
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/sw/new-profile-2.png)
 
 Заполняем настройки профиля:
 
@@ -28,7 +28,7 @@ custom_edit_url: null
 - Размер экрана
 - Основной язык и при необходимости дополнительный язык
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/sw/new-profile-3.png)
 
 :::note
 Еще можно задать тег для профиля. Теги нужны для дальнейшей группировки их между собой. При работе с сотней профилей и выше эта функция становится просто незаменимой.
