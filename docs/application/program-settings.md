@@ -18,13 +18,19 @@ custom_edit_url: null
 - Viewing the log folder.
 - Viewing a profile folder.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/eng/program-settings/program-settings-1.png)
 
 ## Profiles
 
 This section contains quick profile settings.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/eng/program-settings/program-settings-2.png)
+
+## Configs
+
+Connect another Config store account.
+
+![Docusaurus logo](/img/eng/program-settings/program-settings-3.png)
 
 ## Scripts
 
@@ -33,7 +39,7 @@ Add scripts window:
 - Facebook Ads Status.js
 - Facebook Ads Token.js
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/eng/program-settings/program-settings-4.png)
 
 ## About the program
 
@@ -43,4 +49,4 @@ This section shows general information about the program:
 - When the program was installed.
 - When was the last software update.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/eng/program-settings/program-settings-5.png)

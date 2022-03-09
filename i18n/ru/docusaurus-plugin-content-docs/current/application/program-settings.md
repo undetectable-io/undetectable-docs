@@ -16,13 +16,19 @@ custom_edit_url: null
 - Просмотр папки с логами.
 - Просмотр папки с профилями.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/program-settings/program-settings-1.png)
 
 ## Профили
 
 В данном разделе находятся быстрые настройки профилей.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/program-settings/program-settings-2.png)
+
+## Конфиги
+
+Присоединение еще одного конфигстор аккаунта.
+
+![Docusaurus logo](/img/rus/program-settings/program-settings-3.png)
 
 ## Скрипты
 
@@ -31,7 +37,7 @@ custom_edit_url: null
 - Facebook Ads Status.js
 - Facebook Ads Token.js
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/program-settings/program-settings-4.png)
 
 ## О программе
 
@@ -41,4 +47,4 @@ custom_edit_url: null
 - Когда была установлена программа.
 - Когда было последнее обновление программы.
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+![Docusaurus logo](/img/rus/program-settings/program-settings-5.png)
