@@ -4,6 +4,7 @@ id: ssh
 title: Настройка ssh туннеля на Windows
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 ## Setting up an ssh tunnel on Windows
 

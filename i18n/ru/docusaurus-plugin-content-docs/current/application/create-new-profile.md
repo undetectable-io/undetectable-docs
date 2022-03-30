@@ -4,6 +4,7 @@ id: create-new-profile
 title: Создание нового профиля
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 Для создания первого профиля для работы необходимо в меню браузера нажать на “Плюс”:
 

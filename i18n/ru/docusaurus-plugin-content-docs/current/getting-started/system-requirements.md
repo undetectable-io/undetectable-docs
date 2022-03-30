@@ -4,6 +4,7 @@ id: system-requirements
 title: Системные требования
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 ## Минимальные системные тербования
 - 4 Гб ОЗУ

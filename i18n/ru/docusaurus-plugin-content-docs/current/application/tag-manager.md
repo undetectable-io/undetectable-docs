@@ -4,6 +4,7 @@ id: tag-manager
 title: Менеджер тегов
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 Для удобства управления тегами был разработан функционал Менеджер тегов. Находится в меню слева:
 

@@ -4,6 +4,7 @@ id: purchase
 title: Регистрация и покупка лицензии
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 ## Покупка лицензии
 

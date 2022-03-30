@@ -4,6 +4,7 @@ id: program-settings
 title: Настройки программы
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 ## Основные
 

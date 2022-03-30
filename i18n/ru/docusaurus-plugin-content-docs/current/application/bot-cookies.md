@@ -4,6 +4,7 @@ id: bot-cookies
 title: Бот для сбора кукуи файлов
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 ## Запуск бота
 

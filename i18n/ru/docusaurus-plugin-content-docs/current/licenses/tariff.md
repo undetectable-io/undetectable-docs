@@ -4,6 +4,7 @@ id: tariff
 title: Смена и модификация тарифа
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 ## Выбор тарифа
 

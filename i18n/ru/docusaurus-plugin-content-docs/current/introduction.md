@@ -5,6 +5,7 @@ title: Введение
 slug: /
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 ## Как начать работу с Undetectable
 

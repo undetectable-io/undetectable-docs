@@ -4,6 +4,7 @@ id: installing
 title: Установка и вход в программу
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 ## Установка браузера Undetectable
 

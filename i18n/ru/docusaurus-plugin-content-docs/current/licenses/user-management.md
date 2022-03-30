@@ -4,6 +4,7 @@ id: user-management
 title: Управление пользователями
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 # Управление пользователями
 

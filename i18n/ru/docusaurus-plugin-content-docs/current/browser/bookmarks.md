@@ -4,6 +4,7 @@ id: bookmarks
 title: Работа с закладками
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 В функциях браузера есть Bookmarks — закладки, с помощью которых удобно хранить нужные сайты.
 

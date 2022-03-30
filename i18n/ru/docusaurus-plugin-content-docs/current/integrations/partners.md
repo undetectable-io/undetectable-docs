@@ -4,6 +4,7 @@ id: partners
 title: Наши партнёры
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 # Специальный раздел с партнерами
 

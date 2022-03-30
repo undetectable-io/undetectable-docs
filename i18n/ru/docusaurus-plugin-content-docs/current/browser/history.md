@@ -4,6 +4,7 @@ id: history
 title: История просмотров
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
 В браузере есть возможность открыть историю просмотров, очистить ее или открыть нужную вкладку заново.
 
