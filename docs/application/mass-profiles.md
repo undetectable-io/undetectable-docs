@@ -33,3 +33,5 @@ It is possible to show / hide detailed information of each profile:
 3. Next, press the create button – the profiles have been created.
 
 ![Docusaurus logo](/img/eng/mass-creation-of-profiles/mass-creation-of-profiles-5.png)
+
+![Docusaurus logo](/video/mass-creator-example.mp4)
