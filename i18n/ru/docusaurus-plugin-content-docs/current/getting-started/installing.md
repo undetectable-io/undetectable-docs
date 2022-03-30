@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
+id: installing
+title: Установка и вход в программу
 custom_edit_url: null
 ---
-
-# Установка и вход в программу
 
 ## Установка браузера Undetectable
 

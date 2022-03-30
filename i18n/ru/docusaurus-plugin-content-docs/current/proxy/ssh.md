@@ -1,10 +1,9 @@
 ---
 sidebar_position: 1
+id: ssh
+title: Настройка ssh туннеля на Windows
 custom_edit_url: null
 ---
-
-
-# Настройка ssh туннеля на Windows
 
 ## Setting up an ssh tunnel on Windows
 

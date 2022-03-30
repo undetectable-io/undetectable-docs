@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+id: partners
+title: Наши партнёры
 custom_edit_url: null
 ---
 

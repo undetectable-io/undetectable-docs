@@ -4,8 +4,7 @@ id: tag-manager
 title: Tag manager
 custom_edit_url: null
 ---
-
-# Tag manager
+import ReactPlayer from 'react-player'
 
 The Tag Manager functionality has been developed for convenient tag management. It is located in the menu on the left:
 

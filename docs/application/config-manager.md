@@ -4,8 +4,7 @@ id: config-manager
 title: Configuration Manager
 custom_edit_url: null
 ---
-
-# Configuration Manager
+import ReactPlayer from 'react-player'
 
 ## Definition
 

@@ -1,9 +1,10 @@
 ---
 sidebar_position: 4
+id: glossary
+title: Glossary
 custom_edit_url: null
 ---
-
-# Glossary
+import ReactPlayer from 'react-player'
 
 ## Profile
 

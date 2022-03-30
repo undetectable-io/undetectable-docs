@@ -4,8 +4,8 @@ id: proxy-manager
 title: Proxy manager
 custom_edit_url: null
 ---
+import ReactPlayer from 'react-player'
 
-# Proxy manager
 
 To avoid the routine work of creating proxies manually, the browser has a function to import proxy settings – Proxy Manager. Here you can create/delete and edit proxies in mass or single copies.
 

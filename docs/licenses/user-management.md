@@ -1,9 +1,10 @@
 ---
 sidebar_position: 2
+id: user-management
+title: User management
 custom_edit_url: null
 ---
-
-# User management
+import ReactPlayer from 'react-player'
 
 1. The license settings window opens. Here you can manage your users and license plan.
 

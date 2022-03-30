@@ -4,8 +4,7 @@ id: profiles-manager
 title: Profile manager
 custom_edit_url: null
 ---
-
-# Profile manager
+import ReactPlayer from 'react-player'
 
 The Profile Manager functionality is provided for more efficient profile management. You can group, delete, archive, import and export them. Profiles can be sorted and grouped by tags, names.
 

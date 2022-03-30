@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
+id: config-manager
+title: Менеджер конфигураций
 custom_edit_url: null
 ---
-
-# Менеджер конфигураций
 
 ## Определение
 

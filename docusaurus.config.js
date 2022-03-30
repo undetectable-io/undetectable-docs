@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Undetectable Docs",
-  url: "https://docs.undetect.me",
+  url: "https://docs.undetectable.io/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -34,15 +34,11 @@ const config = {
 
   presets: [
     [
-      "classic",
-      /** @type {import('@docusaurus/preset-classic').Options} */
+      "classic", /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           routeBasePath: "/",
-          sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          sidebarPath: require.resolve("./sidebars.js"),   
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -58,10 +54,7 @@ const config = {
       autoCollapseSidebarCategories: true,
       editCurrentVersion: true, 
       imageZoom: {
-        // CSS selector to apply the plugin to, defaults to '.markdown img'
         selector: ".markdown img",
-        // Optional medium-zoom options
-        // see: https://www.npmjs.com/package/medium-zoom#options
         options: {
           margin: 100,
           background: "var(--docsearch-hit-background)",

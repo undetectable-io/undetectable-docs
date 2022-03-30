@@ -1,9 +1,9 @@
 ---
 sidebar_position: 8
+id: program-settings
+title: Настройки программы
 custom_edit_url: null
 ---
-
-# Настройки программы
 
 ## Основные
 

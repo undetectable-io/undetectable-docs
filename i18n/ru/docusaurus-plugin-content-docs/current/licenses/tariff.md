@@ -1,10 +1,9 @@
 ---
 sidebar_position: 1
+id: tariff
+title: Смена и модификация тарифа
 custom_edit_url: null
 ---
-
-
-# Смена и модификация тарифа
 
 ## Выбор тарифа
 

@@ -1,9 +1,10 @@
 ---
 sidebar_position: 2
+id: purchase
+title: Registering and license purchase
 custom_edit_url: null
 ---
-
-# Registering and license purchase
+import ReactPlayer from 'react-player'
 
 ## License purchase
 

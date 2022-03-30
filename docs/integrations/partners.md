@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+id: partners
+title: Special partner section
 custom_edit_url: null
 ---
-
-# Special partner section
+import ReactPlayer from 'react-player'
 
 Our website has a special section with partners
 

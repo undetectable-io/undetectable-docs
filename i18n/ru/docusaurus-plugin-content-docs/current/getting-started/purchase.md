@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
+id: purchase
+title: Регистрация и покупка лицензии
 custom_edit_url: null
 ---
-
-# Регистрация  и покупка лицензии
 
 ## Покупка лицензии
 
