@@ -1,9 +1,10 @@
 ---
 sidebar_position: 5
+id: faq
+title: Faq
 custom_edit_url: null
 ---
-
-# FAQ
+import ReactPlayer from 'react-player'
 
 ## General issues
 

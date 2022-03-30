@@ -1,9 +1,9 @@
 ---
 sidebar_position: 7
+id: bot-cookies
+title: Бот для сбора кукуи файлов
 custom_edit_url: null
 ---
-
-# Бот для сбора куки файлов
 
 ## Запуск бота
 

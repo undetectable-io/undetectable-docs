@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
+id: autosave-password
+title: Автосохранение паролей
 custom_edit_url: null
 ---
-
-# Автосохранение паролей
 
 ## Вкладка “Аккаунты” в Undetectable
 

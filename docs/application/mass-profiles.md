@@ -4,8 +4,7 @@ id: mass-profiles
 title: Mass creation of profiles
 custom_edit_url: null
 ---
-
-# Mass creation of profiles
+import ReactPlayer from 'react-player'
 
 If there is a task to create several profiles with different configurations, you can use the Mass creator:
 

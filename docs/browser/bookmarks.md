@@ -1,9 +1,10 @@
 ---
 sidebar_position: 2
+id: bookmarks
+title: Work with bookmarks
 custom_edit_url: null
 ---
-
-# Work with bookmarks
+import ReactPlayer from 'react-player'
 
 In the functions of the browser there are Bookmarks with which you can save the sites you need.
 

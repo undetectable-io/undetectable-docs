@@ -1,12 +1,9 @@
 ---
 sidebar_position: 1
+id: system-requirements
+title: Системные требования
 custom_edit_url: null
-customProps: {
-    /* props */
-  }
 ---
-
-# Системные требования
 
 ## Минимальные системные тербования
 - 4 Гб ОЗУ

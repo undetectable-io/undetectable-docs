@@ -4,8 +4,7 @@ id: create-new-profile
 title: Create a new profiles
 custom_edit_url: null
 ---
-
-# Create a new profiles
+import ReactPlayer from 'react-player'
 
 To create the first profile to work with, you must click on “Plus” in the browser menu:
 

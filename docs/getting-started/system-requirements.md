@@ -1,12 +1,11 @@
 ---
 sidebar_position: 1
-custom_edit_url: null
-customProps: {
-    /* props */
-  }
+id: system-requirements
+title: System Requirements
 ---
+import ReactPlayer from 'react-player'
 
-# System Requirements
+
 
 ## Minimum system requirements
 - 4GB RAM
@@ -22,3 +21,5 @@ The browser was tested on:
 - Windows 7 and later
 - MacOS High Sierra
 - MacOS Catalina
+
+

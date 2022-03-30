@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+id: tariff
+title: Changing the tariff
 custom_edit_url: null
 ---
-
-# Changing the tariff
+import ReactPlayer from 'react-player'
 
 ## Choice of tariff
 

@@ -1,5 +1,7 @@
 ---
 sidebar_position: 2
+id: user-management
+title: Управление пользователями
 custom_edit_url: null
 ---
 

@@ -1,9 +1,10 @@
 ---
 sidebar_position: 3
+id: installing
+title: Installing and logging into the program
 custom_edit_url: null
 ---
-
-# Installing and logging into the program
+import ReactPlayer from 'react-player'
 
 ## Installing the Undetectable Browser
 

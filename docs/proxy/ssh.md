@@ -1,9 +1,10 @@
 ---
 sidebar_position: 1
+id: ssh
+title: Setting up an ssh tunnel
 custom_edit_url: null
 ---
-
-# Setting up an ssh tunnel
+import ReactPlayer from 'react-player'
 
 ## Setting up an ssh tunnel on Windows
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
+id: faq
+title: FAQ
 custom_edit_url: null
 ---
-
-# FAQ
 
 ## Общие вопросы
 

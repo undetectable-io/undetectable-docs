@@ -4,8 +4,7 @@ id: bot-cookies
 title: Bot for collectiong cookies
 custom_edit_url: null
 ---
-
-# Bot for collecting cookies
+import ReactPlayer from 'react-player'
 
 ## The start
 
