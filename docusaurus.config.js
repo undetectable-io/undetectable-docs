@@ -57,14 +57,14 @@ const config = {
         },
       },
       editCurrentVersion: true,
-      imageZoom: {
-        selector: ".markdown img",
-        options: {
-          margin: 100,
-          background: "var(--docsearch-hit-background)",
-          scrollOffset: 0,
-        },
-      },
+      // imageZoom: {
+      //   selector: ".markdown img",
+      //   options: {
+      //     margin: 100,
+      //     background: "var(--docsearch-hit-background)",
+      //     scrollOffset: 0,
+      //   },
+      // },
       navbar: {
         logo: {
           alt: "Undetectable Logo",
