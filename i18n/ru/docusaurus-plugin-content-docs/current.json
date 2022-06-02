@@ -26,5 +26,21 @@
   "sidebar.tutorialSidebar.category.Integrations": {
     "message": "Интеграции",
     "description": "The label for category Integrations in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Personal Account": {
+    "message": "Личный кабинет",
+    "description": "The label for category Personal Account in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Cloud Dashboard": {
+    "message": "Панель управления облаком",
+    "description": "The label for category Cloud Dashboard in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Program": {
+    "message": "Софт",
+    "description": "The label for category Program in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Start Page": {
+    "message": "Главное окно",
+    "description": "The label for category Start Page in sidebar tutorialSidebar"
   }
 }

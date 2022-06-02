@@ -6,7 +6,6 @@ title: System Requirements
 import ReactPlayer from 'react-player'
 
 
-
 ## Minimum system requirements
 - 4GB RAM
 - 1 GB of free hard drive space

@@ -38,7 +38,7 @@ const config = {
       ({
         docs: {
           routeBasePath: "/",
-          sidebarPath: require.resolve("./sidebars.js"),   
+          sidebarPath: require.resolve("./sidebars.js"),
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -50,9 +50,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      hideableSidebar: true,
-      autoCollapseSidebarCategories: true,
-      editCurrentVersion: true, 
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+          hideable: true,
+        },
+      },
+      editCurrentVersion: true,
       imageZoom: {
         selector: ".markdown img",
         options: {
@@ -64,12 +68,11 @@ const config = {
       navbar: {
         logo: {
           alt: "Undetectable Logo",
-          src: "img/undetectable-gradient.svg",
+          src: "img/undetectable-dark.svg",
           srcDark: "img/undetectable-light.svg",
         },
 
-        items: [
-          {
+        items: [{
             position: "left",
             label: "Home",
             to: "https://undetectable.io/",
@@ -87,6 +90,19 @@ const config = {
           },
 
           {
+            position: "left",
+            label: "Blog",
+            to: "https://undetectable.io/blog/",
+          },
+
+          {
+            position: "left",
+            label: "Download",
+            to: "https://undetectable.io/download/",
+          },
+
+
+          {
             type: "localeDropdown",
             position: "right",
           },
@@ -94,34 +110,31 @@ const config = {
       },
       footer: {
         style: "light",
-        links: [
-          {
+        links: [{
             title: "Undetectable",
-            items: [
-              {
+            items: [{
                 label: "Use Cases",
-                to: "https://undetectable.io/#use__cases",
+                to: "https://undetectable.io/#use",
               },
               {
                 label: "Advantages",
                 to: "https://undetectable.io/#benefits",
               },
               {
-                label: "FAQ",
-                to: "https://undetectable.io/#faq",
+                label: "Roadmap",
+                to: "https://undetectable.io/#roadmap",
               },
               {
-                label: "Pricing",
-                to: "https://undetectable.io/pricing/",
+                label: "Downloads",
+                to: "https://undetectable.io/download/",
               },
             ],
           },
           {
             title: "Support",
-            items: [
-              {
+            items: [{
                 label: "Telegram Support",
-                to: "https://undetectable.io/pricing/",
+                to: "https://t.me/UndetectableBot/",
               },
               {
                 label: "Skype Support",
@@ -135,8 +148,7 @@ const config = {
           },
           {
             title: "Resourses",
-            items: [
-              {
+            items: [{
                 label: "Blog",
                 to: "https://undetectable.io/blog/",
               },
@@ -152,8 +164,7 @@ const config = {
           },
           {
             title: "Legal",
-            items: [
-              {
+            items: [{
                 label: "Terms of Service",
                 to: "https://undetectable.io/terms-of-service/",
               },
@@ -161,7 +172,7 @@ const config = {
                 label: "Privacy Policy",
                 to: "https://undetectable.io/privacy-policy/",
               },
-      
+
             ],
           },
         ],

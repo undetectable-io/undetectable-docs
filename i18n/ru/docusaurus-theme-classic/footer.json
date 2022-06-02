@@ -1,21 +1,27 @@
 {
   "link.title.Undetectable": {
-    "message": "Undetectable"
+    "message": "Undetectable",
+    "description": "The title of the footer links column with title=Undetectable in the footer"
   },
   "link.title.Support": {
-    "message": "Поддержка"
+    "message": "Поддержка",
+    "description": "The title of the footer links column with title=Support in the footer"
   },
   "link.title.Resourses": {
-    "message": "Ресурсы"
+    "message": "Ресурсы",
+    "description": "The title of the footer links column with title=Resourses in the footer"
   },
   "link.title.Legal": {
-    "message": "Документы"
+    "message": "Документы",
+    "description": "The title of the footer links column with title=Legal in the footer"
   },
   "link.item.label.Use Cases": {
-    "message": "Применения"
+    "message": "Применения",
+    "description": "The label of footer link with label=Use Cases linking to https://undetectable.io/#use"
   },
   "link.item.label.Advantages": {
-    "message": "Преимущества"
+    "message": "Преимущества",
+    "description": "The label of footer link with label=Advantages linking to https://undetectable.io/#benefits"
   },
   "link.item.label.FAQ": {
     "message": "FAQ"
@@ -24,27 +30,43 @@
     "message": "Тарифы"
   },
   "link.item.label.Telegram Support": {
-    "message": "Telegram"
+    "message": "Telegram",
+    "description": "The label of footer link with label=Telegram Support linking to https://t.me/UndetectableBot/"
   },
   "link.item.label.Skype Support": {
-    "message": "Skype"
+    "message": "Skype",
+    "description": "The label of footer link with label=Skype Support linking to skype:live:.cid.71ef0b3466281e13?chat"
   },
   "link.item.label.Email Support": {
-    "message": "Email"
+    "message": "Email",
+    "description": "The label of footer link with label=Email Support linking to mailto:support@undetectable.io"
   },
   "link.item.label.Blog": {
-    "message": "Блог"
+    "message": "Блог",
+    "description": "The label of footer link with label=Blog linking to https://undetectable.io/blog/"
   },
   "link.item.label.Changelog": {
-    "message": "Лог изменений"
+    "message": "Лог изменений",
+    "description": "The label of footer link with label=Changelog linking to https://undetectable.io/changelog/"
   },
   "link.item.label.Partners": {
-    "message": "Партнёры"
+    "message": "Партнёры",
+    "description": "The label of footer link with label=Partners linking to https://undetectable.io/partners/"
   },
   "link.item.label.Terms of Service": {
-    "message": "Условия Использования"
+    "message": "Условия Использования",
+    "description": "The label of footer link with label=Terms of Service linking to https://undetectable.io/terms-of-service/"
   },
   "link.item.label.Privacy Policy": {
-    "message": "Политика Конфиденциальности"
+    "message": "Политика Конфиденциальности",
+    "description": "The label of footer link with label=Privacy Policy linking to https://undetectable.io/privacy-policy/"
+  },
+  "link.item.label.Roadmap": {
+    "message": "Роадмап",
+    "description": "The label of footer link with label=Roadmap linking to https://undetectable.io/#roadmap"
+  },
+  "link.item.label.Downloads": {
+    "message": "Скачать",
+    "description": "The label of footer link with label=Downloads linking to https://undetectable.io/download/"
   }
 }

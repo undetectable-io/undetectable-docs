@@ -1,361 +1,349 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 id: introduction
-title: Введение
+title: Introduction
 slug: /
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-## Как начать работу с Undetectable
+# How to get started with Undetectable
 
-Undetectable — это антидетект-браузер для безопасного ведения бизнеса, и анонимного веб-серфинга в интернете. Разработанный на базе Chromium, он предоставляет пользователям набор инструментов для защиты своей конфиденциальности и автоматизации работы с контентом. Undetectable активно развивается, ежедневно дополняя свой функционал и расширяя возможности.
+Undetectable is an anti-detect browser for secure business and anonymous web surfing on the Internet. Powered by Chromium, it provides users with a set of tools to protect their privacy and automate their content experience. Undetectable is growing rapidly, expanding functionality and possibilities on a daily basis.
 
-Если вы хотите попробовать его в действии, это руководство станет вашим помощником. 
+If you want to try it in action, this manual will be your helper.
 
-Важно: для входа в программу используйте имя лицензии и пароль от нее. 
+Important: Use your license name and password to log in to the program.
 
-<!-- Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**. -->
+## Undetectable Advantages
 
-## Преимущества Undetectable
+The program surpasses other anti-detect browsers with functionality, offering unique tools for work.
 
-Программа превосходит остальные антидетект-браузеры своим функционалом, предлагая уникальные инструменты для работы.
+The functionality includes a bot designed to “warm up” your profile and work on several scenarios that you can configure at your discretion, put them on pause and resume, as well as adjust the work with the tabs and their amount. This makes it much easier to do activity and surfing on websites, and prepares them for account registration.
 
-В функционале присутствует бот, предназначенный для «прогрева» вашего профиля и работающий по нескольким сценариям, которые можно настраивать по своему усмотрению, ставить их на паузу и возобновлять, а также регулировать работу со вкладками и их количеством. Это значительно упрощает ведение активности и сёрфинга на веб-сайтах, а также подготавливает их к регистрации аккаунтов. 
+In addition, the browser allows you to create an unlimited number of profiles with flexible individual configurations, including by generating them in a mass one-click. The profiles can be conveniently sorted using the tagging system.
 
-Кроме того, браузер позволяет создавать неограниченное количество профилей с гибкими индивидуальными конфигурациями, в том числе и путем массовой их генерации в один клик. Профили можно удобно сортировать с помощью системы тегов. 
+There is also an account manager with which you can configure the storage of registration data, and import/export them in .tsv format.
 
-Присутствует также менеджер аккаунтов, с помощью которого можно настроить хранение регистрационных данных, а также импортировать/экспортировать их в формате .tsv.
+There is a proxy manager that works in HTTPS or Socks5 modes, and also the ability to change your geolocation.
 
-Имеется менеджер прокси, работающий в режимах HTTPS или Socks5, а также возможность изменить вашу геолокацию. 
+## Registering and purchasing a license
 
+In order to start using the anti-detect browser, the first thing you need to do is register an account to get a license. Go to https://app.undetectable.io , and fill in the registration fields: enter your login, mail and set a password. Then you get an e-mail with a code to verify the account.
 
-## Регистрация и покупка лицензии
+![Docusaurus logo](/img/eng/web/login.png)
 
-Для того, чтобы начать использование антидетект-браузера, первым делом необходимо зарегистрировать аккаунт для получения лицензии. Идём на сайт https://app.undetectable.io, и заполняем поля регистрации: вводим логин, почту и устанавливаем пароль. Затем получаем на e-mail письмо с кодом для верификации аккаунта. 
+Now you have to choose one of the license types, depending on your preference.
 
-![Docusaurus logo](/img/rus/web/login.png)
+Check the price list here.
 
-Теперь нужно выбрать один из типов лицензии, в зависимости от ваших предпочтений. 
+Several tariffs are available:
 
-Ознакомиться с прайсом можете тут.
+- **Free** – 0$ / 7 days: 1 user and 30 free configs.
+- **Base** – $75 / 30 days: 2 users and 30 free configs.
+- **Profession** – $99 / 30 days: 5 users and 50 free configs.
+- **Custom** - $199 / 30 days: 10 users and 80 free configs. + $25 each additional user. This plan can be activated from 10 users and more.
 
-Присутствует несколько тарифов:
+You can also buy the plan for 6 months or 12 months and get a discount. In the first case, it is 15% off the total, in the second – 30%.
 
-- **Стартовый.** Этот тариф включает в себя двух пользователей и 20 бесплатных конфигов для генерации профилей. Цена составляет $75 в месяц. 
-- **Командный.** Доступ для пяти пользователей и 30 бесплатных конфигураций за $169 в месяц. 
-- **Бизнес.** Десять пользователей и 50 пресетов с настройками. Цена — $299 в месяц. 
-- **Пользовательский**. Тариф включает в себя количество пользователей 10 + за каждого дополнительного $25. Получается что 10 пользователей идут за $299 (как в тарифе Business) + 1 пользователь за $25 = $324. Этот тариф можно подключить от 11 пользователей и выше.
+It is worth noting that the license is not bound to some precise device. You can use it on different PCs. However the amount of simultaneously launched copies can be limited in this case.
 
-Вы также можете оформить любой из тарифов сразу на срок в шесть месяцев или год, чтобы получить скидку. В первом случае она составит 15% от общей суммы, а во втором — 30%. 
+![Docusaurus logo](/img/eng/web/pricing.png)
 
-Стоит отметить, что лицензия не привязывается к конкретному устройству, так что вы можете использовать её на разных компьютерах, однако при этом может иметься ограниченный лимит на количество одновременно запущенных копий. 
+When you have chosen the option you want, click on the purchase button and go to the shopping cart to check out.
 
-![Docusaurus logo](/img/rus/web/pricing.png)
+After you choose a rate, the payment window will open. Payment by Visa and Mastercard is currently available.
 
-Выбрав нужный вам вариант, жмите на кнопку покупки и переходите в корзину для оформления заказа. 
+For other payment methods, write to us in Telegram Support: t.me/UndetectableBot
 
-После того, как вы выберете тариф, откроется окно с оплатой. На данный момент доступна оплата по картам Visa и Mastercard.
+![Docusaurus logo](/img/eng/web/payment.png)
 
-Для оплаты другими способами, напишите нам в Telegram Support: t.me/UndetectableBot .
+## Create a license password
 
-![Docusaurus logo](/img/rus/web/payment.png)
+When the license is purchased, you must set a password to confirm it. This information will be needed to log in to the browser.
 
-## Создание пароля для лицензии
+![Docusaurus logo](/img/eng/web/licenses-1.png)
 
-Когда лицензия приобретена, необходимо установить пароль для её подтверждения. Это информация потребуется для входа в браузер. 
+Please note: the license username and password are not the same as the account username and password.In this case, the login is the name of your license.
 
+Select your license and click the “View” button. After that, enter your password.
 
-![Docusaurus logo](/img/rus/web/licenses-1.png)
+![Docusaurus logo](/img/eng/web/licenses-2.png)
 
-:::info
-Обратите внимание: логин и пароль лицензии не совпадает и не является логином и паролем учётной записи. В данном случае логином является название вашей лицензии. 
-:::
+## Installing Undetectable Browser
 
-Выберите вашу лицензию и нажмите кнопку «Посмотреть». После этого введите пароль. 
+Go to to <a href="https://undetectable.io/download/installer/installer_x64_win.exe"> download the browser </a> if you have a Windows-based device, <a href="https://undetectable.io/download/installer/installer_x64_mac.dmg"> or </a> if you have macOS.
 
-![Docusaurus logo](/img/rus/web/licenses-2.png)
+Or click “Download” in the page menu.
 
-## Установка браузера Undetectable
+![Docusaurus logo](/img/eng/sw/installing-1.png)
 
-Перейдите на страницу https://undetectable.io/download/installer/installer_x64_win.exe для скачивания браузера, если у вас устройство на базе Windows, или на https://undetectable.io/download/installer/installer_x64_mac.dmg, если у вас MacOS. 
+We will show the installation using Windows 10 as an example.
+Run the file “installer_x64_win.exe, click Next
 
-Или нажмите на “Скачать” в меню страницы.
+![Docusaurus logo](/img/eng/sw/installing-2.png)
 
-![Docusaurus logo](/img/rus/sw/installing-1.png)
+Add a shortcut to the desktop (optional), install the additional functionality vs_redist_x64:
 
-Мы покажем установку на примере ОС Windows 10.
+![Docusaurus logo](/img/eng/sw/installing-3.png)
 
-Запускаем файл “installer_x64_win.exe, нажимаем Далее.
+Read and accept the license agreement:
 
-![Docusaurus logo](/img/rus/sw/installing-2.png)
+![Docusaurus logo](/img/eng/sw/installing-4.png)
 
-Добавляем ярлык на рабочий стол (по желанию), устанавливаем доп. функционал vs_redist_x64:
+Enter a name to create the folder with the program (the default is Undetectable, so leave it that way)
 
-![Docusaurus logo](/img/rus/sw/installing-3.png)
+![Docusaurus logo](/img/eng/sw/installing-5.png)
 
-Ознакамливаемся и принимаем лицензионное соглашение:
+Depending on the distribution version, the installer will need to download update files from the server, click Install.
 
-![Docusaurus logo](/img/rus/sw/installing-4.png)
+![Docusaurus logo](/img/eng/sw/installing-7.png)
 
-Вводим имя для создания папки с программой (по умолчанию Undetectable, так и оставляем).
+If you do not have the Microsoft Visual C++ component installed, Click Next and wait for installation. In our case, the component is already installed, so we skip this step.
 
-![Docusaurus logo](/img/rus/sw/installing-5.png)
+Browser installation is complete! Click Next
 
-В зависимости от версии дистрибутива Установщику необходимо будет докачать файлы обновлений с сервера, нажимаем Установить.
+![Docusaurus logo](/img/eng/sw/installing-8.png)
 
-![Docusaurus logo](/img/rus/sw/installing-7.png)
+## First launch, authorization
 
-Если у Вас не был установлен компонент Microsoft Visual C++, Нажимаем далее и дожидаемся установки. В нашем случае компонент уже установлен, мы пропускаем этот шаг.
+Launch the Undetecteble shortcut, the login menu will open. You must enter the login assigned in step 3 and the password you set. The authorization window looks like this:
 
-Установка браузера завершена! Жмем Далее.
+![Docusaurus logo](/img/eng/sw/authentication.png)
 
-![Docusaurus logo](/img/rus/sw/installing-8.png)
+## Starting Work
 
-## Первый запуск, авторизация
+### Creation of the first profile for work, tab “profile settings”
 
-Запускаем ярлык Undetecteble, откроется меню авторизации. Нужно ввести логин, присвоенный в пункте 3 и пароль, который Вы задали.  Окно авторизации имеет вид:
+To create the first profile to work with, you must click on “Plus” in the browser menu:
 
-![Docusaurus logo](/img/rus/sw/authentication.png)
+![Docusaurus logo](/img/eng/sw/launch-profile-1.png)
 
-## Начало работы
+After that the browser workspace will be divided into 4 parts:
 
-### Cоздание первого профиля для работы.
+1. Menu
+2. License term information, list of profiles
+3. Setting up a new profile
+4. Profile information for the profile you are creating
 
-Для создания первого профиля для работы необходимо в меню браузера нажать на “Плюс”:
+![Docusaurus logo](/img/eng/sw/new-profile-2.png)
 
-![Docusaurus logo](/img/rus/sw/launch-profile-1.png)
+Fill in the profile settings:
 
-После чего рабочая область браузера поделится на 4 части:
+- Profile name
+- Configuration (the minimum license has 20 available)
+- Operating system
+- Browser
+- Custom User Agent as needed
+- Screen Size
+- Main language and additional language if needed
 
-1. Меню
-2. Информация о сроке лицензии, список профилей
-3. Настройка нового профиля
-4. Информация создаваемого профиля
-
-![Docusaurus logo](/img/rus/sw/new-profile-2.png)
-
-Заполняем настройки профиля:
-
-- Имя профиля
-- Конфигурацию (в самой минимальной лицензии их доступно 20)
-- Операционную систему
-- Браузер
-- Кастомный User Agent по необходимости
-- Размер экрана
-- Основной язык и при необходимости дополнительный язык
-
-![Docusaurus logo](/img/rus/sw/new-profile-3.png)
+![Docusaurus logo](/img/eng/sw/new-profile-3.png)
 
 :::note
 
-Вы можете задать тег для профиля. Теги нужны для дальнейшей группировки их между собой. При работе с сотней профилей и выше эта функция становится просто незаменимой.
+You can also set a tag for a profile. Tags are needed to further group them together. When working with a hundred profiles and above, this feature becomes simply indispensable.
 
 :::
 
-После заполнения этих “обязательных” полей можно нажать на кнопку Сохранить, конфигурация при этом сохранится, но мы ознакомимся с остальными настройками.
+After filling in these “required” fields, you can click on Save, the configuration will be saved, but we will familiarize ourselves with the rest of the settings.
 
-### Прокси
+### Proxy
 
-Выбираем следующую вкладку — Прокси. Конечно же для того чтобы создать один профиль, прокси можно создать вручную, для ознакомления мы так и поступим. Но при массовом создании профилей рекомендуем пользоваться менеджером прокси, о нем мы написали в пункте 10.
+Select the next tab – Proxy. Of course, in order to create a single profile, proxies can be created manually, we will do so for familiarity. But if you create profiles in bulk, we recommend using the proxy manager, we wrote about it in point 10.
 
-![Docusaurus logo](/img/rus/sw/proxy-1.png)
+![Docusaurus logo](/img/eng/sw/proxy-1.png)
 
-В первом поле выбираем нужный нам тип прокси, http или socks5. 
+In the first field, choose the type of proxy you want, http or socks5.
 
-![Docusaurus logo](/img/rus/sw/proxy-2.png)
+![Docusaurus logo](/img/eng/sw/proxy-2.png)
 
-Далее располагаются поля для ввода IP, порта, логина и пароля. Поддерживается форматный ввод, так что вы можете просто скопировать всю информацию о прокси-сервере и одним кликом заполнить поля.
+Then there are fields for entering IP, port, username and password. Supports formatted input, so you can simply copy all proxy information and one-click fill in the fields.
 
-Выбираем Заполняем необходимые поля.
+Select Fill in the required fields.
 
+### Network prints
 
-### Сетевые отпечатки
+Go to the next tab – network prints.
 
-Переходим в следующую вкладку — сетевые отпечатки.
+![Docusaurus logo](/img/eng/sw/network-prints.png)
 
-![Docusaurus logo](/img/rus/sw/network-fingerprints.png)
+If you are using a proxy, then you just need to turn all settings to Auto mode, then all network fingerprints will be swapped based on the proxy. If you prefer to fill in the settings manually, then: enable WebRTC, ticking the appropriate checkbox, and define a public IP. A local IP, on the other hand, is not recommended in most cases to improve your privacy.
 
-Если вы используете прокси, то вам достаточно включить все настройки в Авто режим, тогда все сетевые отпечатки будут подменяться на основе прокси. Если вы предпочитаете заполнять настройки вручную, то: включите работу с WebRTC, поставив соответствующую галочку, и определите публичный IP. Локальный же IP не рекомендуется использовать в большинстве случаев, чтобы улучшить вашу конфиденциальность.
+The MaxMind button is needed to manually fill in the external IP bypassing the proxy.
 
-Кнопка MaxMind нужна для ручного заполнения внешнего IP в обход прокси.
+### System Prints
 
-### Системные отпечатки
+Here you configure and swap out your browser’s system fingerprints.
 
-Здесь производится настройка и подмена системных отпечатков вашего браузера.
+![Docusaurus logo](/img/eng/sw/hardware-prints.png)
 
-![Docusaurus logo](/img/rus/sw/hardware-fingerprints.png)
+- Canvas – Add digital noise to the picture by changing the prints on the rendering data in the browser.
+- WebGL image hash – disables / adds noise to the image built through WebGL tools.
+- AudioContext – Substitutes audio data in the browser.
+- WebGL metadata – Substitutes the video card data that the browser uses, applying a “mask”.
+- Screen size – Adjusts the size of the browser window to the configuration.
+- Fonts – Substitutes browser fonts.
 
-- Canvas — Добавляют цифровой шум в картинку, меняя отпечатки по отрисовке данных в браузере. 
-- Хэш изображения WebGL — отключает / добавляет шум в изображение построенное через средства WebGL.
-- AudioContext — Подменяет данные аудио у браузера. 
-- Метаданные WebGL — Подменяет данные о видеокарте, которую использует браузер, накладывая «маску». 
-- Размер окна — Подстраивает размер окна браузера под конфигурацию
-- Шрифты — Подменяет шрифты браузера.
+In most cases, manual setting of these parameters is not required.
 
-В большинстве случаев ручная настройка этих параметров не требуется.
+### Cookie files
 
-### Файлы Cookie
+You can use the Import tab to import JSON and Netscape cookies as files or text.
 
-С помощью вкладки «Import» вы можете импортировать куки в формате JSON и Netscape в виде файлов или текста. 
+Here is also an external link to the Netscape to JSON converter.
 
-Здесь же находится внешняя ссылка на конвертер Netscape в JSON 
+After you download cookies, you will be able to view, edit, and export them.
 
-После загрузки cookie-файлов вам будут доступны функции их просмотра, редактирования и экспорта.
+### Accounts
 
-### Аккаунты
+To avoid losing account data (logins and passwords), we have made a separate tab Accounts in every profile you create.
 
-Для того, чтобы не потерять данные аккаунтов (логины и пароли), мы сделали отдельную вкладку “Аккаунты” в каждом профиле, который вы создаете. 
+![Docusaurus logo](/img/eng/sw/accounts-1.png)
 
-![Docusaurus logo](/img/rus/sw/accounts-1.png)
+In this tab we fill in:
 
-В этой вкладке мы вводим:
-
-- Домен сайта
-- Логин
-- Пароль
+- Website address
+- Login
+- Password
 
 **Where the data is stored**
 
-Все эти данные сохраняются не только в системе Undetectable, но и в самом браузере. Когда вы будете использовать конкретный профиль, при открытии сайта в браузере, вам будет предложен перечень сохраненных логинов данного профиля.
+All of this data is saved not only in the Undetectable system, but also in the browser. Using a particular profile you open the website in your browser, and you are offered a list of saved logins for that profile.
 
-В большинстве случаев ручная настройка этих параметров не требуется.
+In most cases, manual setting of these parameters is not required.
 
-Также можно массово импортировать и подгружать перечень сайтов с аккаунтами в .tsv формате (данные разделены символом табуляции).
-
-
-### Запускаем профиль как работу в обычном браузере
-
-После того как задали все настройки в предыдущих пунктах, нажимаем на кнопку Сохранить — профиль создан! Он появится в списке слева:
-
-![Docusaurus logo](/img/rus/sw/accounts-2.png)
-
-Теперь можно переходить к использованию самого браузера.
-
-Затем в списке слева на выбранном профиле нажмите сине-белую кнопку запуска:
-
-Откроется окно браузера, в нем стартовая страница —<a href="https://leaksradar.com/"> LeaskRadar.com </a> (или та, которую Вы укажете вручную) в настройках профиля.
-
-_Из особенностей запущенного браузера можно выделить 2 иконки: настройки (профиля) и меню:_
-
-_При появлении проблем с отрисовкой графики браузера рекомендуется включить в настройках опцию «Force Use Swiftshader». Эта функция отвечает за отрисовку графики в браузере принудительно через процессор, а не через видеоадаптер._
+You can also mass import and export a list of websites with accounts in .tsv format (data is separated by a tabulation symbol).
 
 
-### Массовое создание профилей
+### Launch the profile as in a normal browser
 
-В случае, если есть задача создать несколько профилей с разными конфигурациями, вы можете воспользоваться функционалом “Массовое создание”.
+After you have set all the settings in the previous paragraphs, click Save – the profile is created! It will appear in the list on the left:
 
-Заполняем: Стартовый ID, ОС, Браузер, выбираем нужные конфигурации, теги для дальнейшей группировки, экран, прокси, язык и кол-во.
+![Docusaurus logo](/img/eng/sw/accounts-2.png)
 
-Далее нажимаем кнопку Генерация — можно проверить всё ли верно заполнили.
+Now you can move on to using the browser itself.
 
-![Docusaurus logo](/img/rus/sw/mass-creator-1.png)
+Then click the blue-white start button in the list on the left on the selected profile:
 
-Есть возможность показать / скрыть детальную информацию каждого профиля:
+The browser window opens, with the start page – <a href="https://leaksradar.com/"> LeaskRadar.com </a> (or the one you specify manually) in the profile settings.
 
-![Docusaurus logo](/img/rus/sw/mass-creator-2.png)
+Of the features of the running browser can be distinguished by 2 icons: settings (profile) and the menu.
 
-Далее Нажимаем кнопку создать — профили созданы.
+If you have problems with rendering browser graphics, it is recommended to enable the “Force Use Swiftshader” option in the settings. This function is responsible for rendering graphics in the browser forcibly through the processor, not through the video adapter.
 
-### Менеджер профилей
+### Mass profile creation
 
-Для более эффективного управления профилями предусмотрен функционал — Менеджер профилей. С его помощью вы можете группировать их, удалять, архивировать, совершать импорт и экспорт. Профили можно сортировать и группировать по тегам, названиям.
+If you want to create several profiles with different configurations, you can use the ” Mass Creation” feature.
 
-Чтобы открыть менеджер профилей нажмите на левой панели на указанную иконку. 
+Fill in: Start ID, OS, Browser, select the necessary configurations, tags for further grouping, screen, proxy, language and quantity.
 
-![Docusaurus logo](/img/rus/sw/profiles-manager-1.png)
+Then click Generate – you can check if everything is filled in correctly.
 
-Откроется следующее окно:
+![Docusaurus logo](/img/eng/sw/mass-creator-1.png)
 
-![Docusaurus logo](/img/rus/sw/profiles-manager-2.png)
+It is possible to show / hide detailed information of each profile:
 
-Нажав на кнопку Правка, у нас открывается доступ на редактирование имен профилей, выбор им тегов и написание заметок. После внесения правок, нажимаем кнопку сохранить.
+![Docusaurus logo](/img/eng/sw/mass-creator-2.png)
 
-<!-- ![Docusaurus logo](/img/docusaurus.png) -->
+Next, press the create button – the profiles have been created.
 
-### Запуск бота и его возможности 
+### Profile Manager
 
-Чтобы запустить бота, нажмите на одноименную кнопку слева рабочего поля. 
+The Profile Manager functionality is provided for more efficient profile management. You can group, delete, archive, import and export them. Profiles can be sorted and grouped by tags, names.
 
-![Docusaurus logo](/img/rus/sw/bot-1.png)
+To open the profile manager, click the icon in the left panel.
 
-Откроется следующее окно:
+![Docusaurus logo](/img/eng/sw/profiles-manager-1.png)
 
-![Docusaurus logo](/img/rus/sw/bot-2.png)
+The following window will open:
 
-Функционал бота позволяет устанавливать автоматический просмотр сайтов в течении выбранного периода времени. Как настроить правильно?
+![Docusaurus logo](/img/eng/sw/profiles-manager-2.png)
 
-1. Профили — один или несколько профилей, с которыми будем работать.
-2. Pages is one moment — сколько страниц бот откроет одновременно
+Clicking the Edit button gives us access to edit profile names, select their tags, and write notes. After making changes, click save.
+
+### Launching the bot and its options
+
+Start the bot by clicking the button Bot on the left of the platform working space.
+
+![Docusaurus logo](/img/eng/sw/bot-1.png)
+
+The following window will open:
+
+![Docusaurus logo](/img/eng/sw/bot-2.png)
+
+The functionality of the bot allows you to set up an automatic browsing of web-sites for a selected period of time. How to set it up correctly?
+
+1. Profiles – one or more profiles with which you will work;
+2. Pages is one moment – an amount of pages the bot opens at the same time;
 3. Script.
-На данный момент доступно три скрипта для работы бота:
+
+At the moment, there are three scripts available for the bot to work:
+
+- **Browse Pages In Order.** Each profile goes through to the specified web-sites in the order of the list;
+- **Browse Pages Randomly.** Each profile goes through to web-sites in a random order;
+- **Group Pages by Profiles.** Links are shuffled and distributed among all active profiles.
+
+The script launch can be paused and resumed when needed. With the Timer option, you can flexibly adjust the time spent on the web-site and the intervals between actions. Or select Random interval, in order the bot randomly to be on a web-site within the specified time set by the User.
+
+Also we develop such a tool as an automatic link click through on pages and computer mouse movement emulation. All these things will allow you to “warm up” your profile before getting registered on web-sites.
+
+Links can be imported using the Import links button. To do this, select a text file with a list of links, each on a new line and click the import button.
+
+![Docusaurus logo](/img/eng/sw/bot-3.png)
+
+### Proxy Manager
+
+To avoid the routine work of creating proxies manually, the browser has a function to import proxy settings – Proxy Manager. Here you can create/delete and edit proxies in mass or single copies.
 
 
-- **Browse Pages In Order.** Каждый профиль переходит на указанные сайты в порядке списка. 
-- **Browse Pages Randomly.** Каждый профиль переходит на сайты в рандомном порядке. 
-- **Group Pages by Profiles.** Ссылки перемешиваются и распределяются между всеми активными профилями. 
+![Docusaurus logo](/img/eng/sw/proxy-manager-1.png)
 
-Выполнение скриптов можно поставить на паузу и возобновить при необходимости. С помощью опции «Fix Timer» вы можете гибко настраивать время нахождения на сайте и интервалы между действиями. Или выбрать Random interval, для того чтобы бот в произвольном порядке находился на сайте в пределах времени от и до, заданным пользователем. 
+To create proxies one by one, select a new proxy. The configuration window opens:
 
-Также в разработке находятся такие инструменты, как автоматический переход по ссылкам на страницах, а также эмуляция движения мыши. Всё это позволит «прогреть» ваш профиль перед регистрацией на сайтах. 
+![Docusaurus logo](/img/eng/sw/proxy-manager-2.png)
 
-Ссылки можно импортировать с помощью кнопки Import links. Для этого необходимо создать txt файл, написать списком ссылки, нажать кнопку импорта, выбрать этот текстовый файл и запустить.
+For adding multiple proxy settings, we recommend exporting the template (Example.csv) first, filling it in, and then importing it into the browser using the appropriate “Import” button.
 
-![Docusaurus logo](/img/rus/sw/bot-3.png)
+The template (Example.csv) looks like this
 
-### Менеджер прокси
+![Docusaurus logo](/img/eng/sw/proxy-manager-3.png)
 
-Для исключения рутинной работы по созданию прокси вручную, в браузере предусмотрен функционал импорта настроек прокси — менеджер прокси. Здесь Вы можете создавать / удалять и редактировать прокси массово или единично. 
+### Tag Manager
 
-![Docusaurus logo](/img/rus/sw/proxy-manager-1.png)
+The Tag Manager functionality has been developed for convenient tag management. It is located in the menu on the left:
 
-Для того чтобы создавать прокси поштучно — выбираем новое прокси. Откроется окно настройки конфигурации:
+![Docusaurus logo](/img/eng/sw/tag-manager.png)
 
-![Docusaurus logo](/img/rus/sw/proxy-manager-2.png)
+Enter the value “Tag Name” in the input line, click the plus button (to the right) – We have created a tag called Tag name:
 
-Для того чтобы добавить настройки нескольких прокси, рекомендуем выполнить сначала экспорт шаблона (Example.csv), заполнить его, затем импортировать в браузер с помощью соответствующей кнопки “Импорт”.
+You can also select all or more tags and rename/delete.
 
-Шаблон (Example.csv) выглядит так:
+### Top Sites Generator
 
-![Docusaurus logo](/img/rus/sw/proxy-manager-3.png)
+We have added a small service for creating popular sites, where you can select the desired country and the number of sites. In a couple of seconds, you will find a list of the most popular sites, which can be found in our bot.
 
-### Менеджер тегов
+![Docusaurus logo](/img/eng/sw/top-website-generator.png)
 
-Для удобства управления тегами был разработан функционал Менеджер тегов. Находится в меню слева:
+### Configuration Store
 
-![Docusaurus logo](/img/rus/sw/tag-manager.png)
+![Docusaurus logo](/img/eng/sw/configuration-store-1.png)
 
-Заносим в строку ввода значение “Tag Name”, нажимаем на кнопку плюс (справа) — Создали тег под названием Tag name:
+At creation of the most convenient Configuration Store we have added search functions by User-Agent and WebGL and the ability to select configurations by number of processor cores, size of the RAM and screen resolution.
 
-Также можно выбрать все или несколько тегов и переименовать / удалить.
+A limited number of free configurations will be available at various plans, but you can buy additional configurations for $1. Configurations are sold exclusively to one person.
 
-### Генератор сайтов
+![Docusaurus logo](/img/eng/sw/configuration-store-2.png)
 
-Мы добавили небольшой сервис по **генерации популярных сайтов**, где вы можете выбрать нужную страну и количество сайтов. За пару секунд у вас появится список из самых популярных сайтов, который можно скопировать в наш бот.
+Also we have developed an accumulative bonus program:
 
-![Docusaurus logo](/img/rus/sw/top-website-generator.png)
+- If you bought more than 50 configurations – your discount is *5%* for a purchase of new configurations.
+- More than 100 configurations – *10%* discount.
+- More than 200 configurations – *15%* discount.
+  and ect. The maximum discount of *30%* remains with you if you buy more than 500 configurations.
 
-### Магазин конфигураций
+### The Conclusion
 
-![Docusaurus logo](/img/rus/sw/configuration-store-1.png)
+This tutorial should reveal the possibilities of such a powerful tool as Undetectable. Use it as a tutorial on how to use the browser.
 
-Мы собрали для вас максимально удобный магазин конфигураций, добавив в него функции поиска по User-Agent и WebGL и возможность выбрать конфигурации по кол-ву ядер процессора, размеру оперативной памяти и разрешению экрана. 
-
-На различных тарифах будет доступно ограниченное количество бесплатных конфигураций, но вы сможете докупить каждую последующую за 1$. Конфигурации продаются исключительно в одни руки. 
-
-![Docusaurus logo](/img/rus/sw/configuration-store-2.png)
-
-Также мы разработали для вас накопительную бонусную программу: 
-
-- Если вы уже приобрели более 50 конфигураций — ваша скидка составит *5%* на приобретение новых конфигураций.
-- Более 100 конфигов — скидка *10%*
-- Более 200 конфигов — скидка *15%*
-
-Максимальная скидка *30%* остается с вами, если вы купите больше 500 конфигураций.
-
-### Заключение 
-
-Эта инструкция должна раскрыть возможности такого сильного инструмента как Undetectable. Используйте ее как мануал в работе с браузером.
-
-Надеемся, что эта информация была полезна для вас. 
-
+We hope this information has been useful to you.
