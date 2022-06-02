@@ -68,7 +68,7 @@ const config = {
       navbar: {
         logo: {
           alt: "Undetectable Logo",
-          src: "img/undetectable-dark.svg",
+          src: "img/undetectable-gradient.svg",
           srcDark: "img/undetectable-light.svg",
         },
 
