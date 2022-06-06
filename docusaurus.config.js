@@ -56,6 +56,9 @@ const config = {
           hideable: true,
         },
       },
+      colorMode: {
+        respectPrefersColorScheme: true,
+      },
       editCurrentVersion: true,
       // imageZoom: {
       //   selector: ".markdown img",

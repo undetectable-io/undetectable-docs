@@ -42,5 +42,9 @@
   "sidebar.tutorialSidebar.category.Start Page": {
     "message": "Главное окно",
     "description": "The label for category Start Page in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar tutorialSidebar"
   }
 }

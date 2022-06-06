@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 id: referral-program
-title: Реферальная программа
+title: Оеферальная программа
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
