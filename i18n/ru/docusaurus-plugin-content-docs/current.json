@@ -44,7 +44,7 @@
     "description": "The label for category Start Page in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Introduction": {
-    "message": "Introduction",
+    "message": "Введение",
     "description": "The label for category Introduction in sidebar tutorialSidebar"
   }
 }
