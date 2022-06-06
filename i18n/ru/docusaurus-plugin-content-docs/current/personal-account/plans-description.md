@@ -7,16 +7,11 @@ custom_edit_url: null
 import ReactPlayer from 'react-player'
 
 
-To avoid the routine work of creating proxies manually, the browser has a function to import proxy settings – Proxy Manager. Here you can create/delete and edit proxies in mass or single copies.
+Отличительная особенность - это широкие возможности для кастомизации тарифных планов, что поможет существенно сэкономить, не переплачивая за лишний функционал. 
 
-![Docusaurus logo](/img/eng/sw/proxy-manager-1.png)
+Чем дороже базовый тарифный план, тем более выгодным к приобретению становится апгрейд функционала и покупка дополнительных конфигураций. При необходимости вы всегда можете:
+* Добавить новых пользователей на любом платном тарифе; 
+* Увеличить количество облачных профилей на Free и Custom тарифах;
+* Приобрести больше сессий на сутки на Custom и Professional тарифах.
 
-To create proxies one by one, select a new proxy. The configuration window opens:
-
-![Docusaurus logo](/img/eng/sw/proxy-manager-2.png)
-
-For adding multiple proxy settings, we recommend exporting the template (Example.csv) first, filling it in, and then importing it into the browser using the appropriate “Import” button.
-
-The template (Example.csv) looks like this
-
-![Docusaurus logo](/img/proxy-example-template.png)
+![Docusaurus logo](/img/1-app/3-tariff/eng/tariff-1.png)

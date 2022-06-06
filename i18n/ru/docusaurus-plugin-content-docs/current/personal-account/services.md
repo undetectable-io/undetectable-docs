@@ -6,13 +6,9 @@ custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-The Tag Manager functionality has been developed for convenient tag management. It is located in the menu on the left:
 
-![Docusaurus logo](/img/eng/sw/tag-manager.png)
+В разделе Сервисы вы можете найти ссылки на:
+* leaksradar.com - позволяет проверить работу подмен браузера;
+* cookies converter - Здесь вы можете конвертировать файлы cookie из NETSCAPE в JSON.
 
-Enter the value “Tag Name” in the input line, click the plus button (to the right) – We have created a tag called Tag name:
-
-<!-- ![Docusaurus logo](/img/eng/sw/tag-manager.png) -->
-
-You can also select all or more tags and rename/delete.
-
+![Docusaurus logo](/img/1-app/10-services/eng/services-1.png)

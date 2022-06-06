@@ -6,13 +6,18 @@ custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-The Tag Manager functionality has been developed for convenient tag management. It is located in the menu on the left:
 
-![Docusaurus logo](/img/eng/sw/tag-manager.png)
+На главной странице личного кабинета собрана вся информация о текущем тарифе:
+* название;
+* количество локальных профилей;
+* количество облачных профилей;
+* количество пользователей;
+* количество активных и доступных сессий;
+* количество бесплатных конфигураций;
+* количество купленных конфигураций;
+* количество подключенных облачных серверов.
 
-Enter the value “Tag Name” in the input line, click the plus button (to the right) – We have created a tag called Tag name:
+Для апгрейда тарифа или покупки нового нажимаем кнопку Апгрейд.
 
-<!-- ![Docusaurus logo](/img/eng/sw/tag-manager.png) -->
 
-You can also select all or more tags and rename/delete.
-
+![Docusaurus logo](/img/1-app/2-overview/eng/overveiw-1.png)

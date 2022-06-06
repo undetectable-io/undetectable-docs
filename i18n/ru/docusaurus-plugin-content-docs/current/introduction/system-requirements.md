@@ -6,8 +6,6 @@ title: Системные требования
 
 import ReactPlayer from 'react-player'
 
-## Minimum system requirements
-
 - 4 ГБ ОЗУ;
 - 1 ГБ свободного места на жестком диске.
 
