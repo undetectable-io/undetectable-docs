@@ -15,3 +15,5 @@ import ReactPlayer from 'react-player'
 Созданные роли возможно редактировать.
 
 ![Docusaurus logo](/img/2-cloud/5-roles/eng/roles-2.png)
+
+![Docusaurus logo](/img/2-cloud/5-roles/eng/roles-3.png)

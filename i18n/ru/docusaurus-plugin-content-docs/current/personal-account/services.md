@@ -8,7 +8,7 @@ import ReactPlayer from 'react-player'
 
 
 В разделе Сервисы вы можете найти ссылки на:
-* leaksradar.com - позволяет проверить работу подмен браузера;
-* cookies converter - Здесь вы можете конвертировать файлы cookie из NETSCAPE в JSON.
+* [leaksradar.com](https://leaksradar.com/) - позволяет проверить работу подмен браузера;
+* [cookies converter](https://leaksradar.com/converter) - Здесь вы можете конвертировать файлы cookie из NETSCAPE в JSON.
 
 ![Docusaurus logo](/img/1-app/10-services/eng/services-1.png)
