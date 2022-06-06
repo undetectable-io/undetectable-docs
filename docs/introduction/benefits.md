@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 id: benefits
 title: Benefits of Undetectable
 custom_edit_url: null

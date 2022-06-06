@@ -68,8 +68,8 @@ const config = {
       navbar: {
         logo: {
           alt: "Undetectable Logo",
-          src: "img/undetectable-gradient.svg",
-          srcDark: "img/undetectable-light.svg",
+          src: "img/logo-dark.svg",
+          srcDark: "img/logo-light.svg",
         },
 
         items: [{
@@ -181,12 +181,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      algolia: {
-        appId: "RDK81I3X0K",
-        apiKey: "f1e74e044ed92a67d114d724b92c5ab1",
-        indexName: "undetectable-docs",
-        contextualSearch: true,
-      },
+      // algolia: {
+      //   appId: "RDK81I3X0K",
+      //   apiKey: "f1e74e044ed92a67d114d724b92c5ab1",
+      //   indexName: "undetectable-docs",
+      //   contextualSearch: true,
+      // },
     }),
 };
 

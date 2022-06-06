@@ -2,14 +2,14 @@
     "index_name": "undetectable-docs",
     "start_urls": [
       {
-        "url": "https://docs.undetect.me/(?P<lang>.*?)",
+        "url": "https://docs.undetectable.io/(?P<lang>.*?)",
         "variables": {
           "lang": ["ru", ""]
         }
       }
     ],
     "sitemap_urls": [
-      "https://docs.undetect.me/sitemap.xml"
+      "https://docs.undetectable.io/sitemap.xml"
     ],
     "sitemap_alternate_links": true,
     "stop_urls": [
