@@ -50,6 +50,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+
       docs: {
         sidebar: {
           autoCollapseCategories: true,
@@ -184,12 +185,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      // algolia: {
-      //   appId: "RDK81I3X0K",
-      //   apiKey: "f1e74e044ed92a67d114d724b92c5ab1",
-      //   indexName: "undetectable-docs",
-      //   contextualSearch: true,
-      // },
+      algolia: {
+        appId: "8PSKKPV3OQ",
+        apiKey: "cb15da6f35451f5fed2b4857aedb7841",
+        indexName: "dev_undetectable-docs",
+        contextualSearch: true,
+      },
     }),
 };
 

@@ -1,5 +1,5 @@
 {
-    "index_name": "undetectable-docs",
+    "index_name": "dev_undetectable-docs",
     "start_urls": [
       {
         "url": "https://docs.undetectable.io/(?P<lang>.*?)",
