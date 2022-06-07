@@ -19,5 +19,4 @@ import ReactPlayer from 'react-player'
 
 Для апгрейда тарифа или покупки нового нажимаем кнопку Апгрейд.
 
-
 ![Docusaurus logo](/img/1-app/2-overview/eng/overveiw-1.png)
