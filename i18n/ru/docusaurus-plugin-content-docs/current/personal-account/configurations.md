@@ -1,16 +1,15 @@
 ---
 sidebar_position: 5
 id: configurations
-title: Конфигурации
+title: Configurations
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-
-В Undetectable вам даются на выбор бесплатные конфигурации (количество зависит от тарифа), а также есть возможность купить дополнительные конфигурации в магазине. С помощью заданных параметров вы быстро сможете выбрать нужную конфигурацию из списка представленных.
+In Undetectable, you are given a choice of free configurations (the amount depends on the tariff), and there is also an opportunity to buy additional configurations in the store. With the help of the set parameters, you can quickly select the desired configuration from the list presented.
 
 ![Docusaurus logo](/img/1-app/6-configurations/eng/configurations-1.png)
 
-Все купленные конфигурации будут отображаться в разделе Мои конфигурации. Здесь можно посмотреть полную информацию о конфигурации, задать имя или отключить лишние.
+All purchased configurations will be displayed in the My Configurations section. Here you can view the full configuration information, set a name or disable unnecessary ones.
 
 ![Docusaurus logo](/img/1-app/6-configurations/eng/configurations-2.png)

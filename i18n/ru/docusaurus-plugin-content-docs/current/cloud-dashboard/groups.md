@@ -1,19 +1,19 @@
 ---
 sidebar_position: 1
 id: groups
-title: Группы
+title: Groups
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-В разделе Группы вы управляете группами пользователей и облачных профилей.
-Группы позволяют создавать отдельные подкоманды для удобства работы с облачными профилями.
-Группы работают следующим образом:
-1. вы создаете группу;
-2. определяете пользователей, которые допущены к созданной группе;
-3. при создании облачных профилей (переводе из локальных в облачные) определяете их в созданную группу;
-4. запустив программу, пользователь будет видеть только облачные профили из групп, в которых он состоит.
-Пользователям можно давать доступ к нескольким группам.
-Облачные профили можно перемещать между группами.
+In the Groups section, you manage groups of users and cloud profiles.
+Groups allow you to create separate subcommands for the convenience of working with cloud profiles.
+The groups work as follows:
+1. you are creating a group;
+2. determine the users who are allowed to the created group;
+3. when creating cloud profiles (transferring from local to cloud), define them in the created group;
+4. by running the program, the user will see only cloud profiles from the groups in which he is a member.
+Users can be given access to multiple groups.
+Cloud profiles can be moved between groups.
 
 ![Docusaurus logo](/img/2-cloud/4-groups/eng/groups-1.png)

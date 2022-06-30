@@ -1,20 +1,20 @@
 ---
 sidebar_position: 2
 id: system-requirements
-title: Системные требования
+title: System requirements
 ---
-
 import ReactPlayer from 'react-player'
 
-- 4 ГБ ОЗУ;
-- 1 ГБ свободного места на жестком диске.
 
-**Поддерживаются только 64-битные операционные системы.**
+- 4 GB OF RAM;
+- 1 GB of free hard disk space.
 
-Поддерживаются MacOS с процессором M1.
+**Only 64-bit operating systems are supported.**
 
-Браузер тестировался на:
+macOS with M1 processor are supported.
 
-- Windows 7 и выше;
+The browser was tested on:
+
+- Windows 7 and above;
 - MacOS High Sierra;
 - MacOS Catalina.

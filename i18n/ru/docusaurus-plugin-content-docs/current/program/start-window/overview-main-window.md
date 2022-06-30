@@ -1,40 +1,39 @@
 ---
 sidebar_position: 2
 id: overview-main-window
-title: Обзор главного окна
+title: Overview of the main window
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-## Основное меню
-1. “Новый” для создания нового профиля.
-2. “Массовый” открывает окно “Массовое создание” (добавление большого количества новых профилей).
-3. “Прокси” открывает окно “Менеджер прокси”.
-4. “Теги” открывает окно “Менеджер тегов”.
-5. “Профили” открывает окно “Менеджер профилей”.
-6. “Конфиги” открывает окно “Менеджер конфигураций”.
-7. “Бот” открывает окно “Бот” (используется для прогрева профилей).
-8. “Партнёры” переводит на страницу с нашими партнёрами.
-9. “Настройки” открывает окно “Настройки” (изменить папку хранения профилей, настройки профилей по умолчанию, добавить скрипты).
+## Main menu
+1. “New” to create a new profile.
+2. “Mass” opens the “Mass Creation” window (adding a large number of new profiles).
+3. “Proxy” opens the “Proxy Manager" window.
+4. “Tags“ opens the "Tag Manager" window.
+5. “Profiles" opens the “Profile Manager" window.
+6. Configs opens the Configuration Manager window.
+7. “Bot“ opens the ”Bot" window (used to warm up profiles).
+8. “Partners” translates to a page with our partners.
+9. “Settings” opens the “Settings” window (change the profile storage folder, default profile settings, add scripts).
 
-![Docusaurus logo](/img/3-soft/2-start-window/1-main/rus/main-1.png)
+![Docusaurus logo](/img/3-soft/2-start-window/1-main/eng/main-1.png)
 
-## Поле информации о лицензии
-1. Текущий тариф и срок его действия.
-2. Логин авторизованного пользователя и его роль.
-3. “Апгрейд” кнопка перехода в личный кабинет для улучшения возможностей вашего тарифа.
-4. “Облачная панель” кнопка перехода на панель управления облаком.
+## License Information field
+1. The current tariff and its validity period.
+2. Login of the authorized user and his role.
+3. “Upgrade” is a button to go to your personal account to improve the capabilities of your tariff.
+4. “Cloud Panel” is the button to go to the cloud control panel.
 
-![Docusaurus logo](/img/3-soft/2-start-window/1-main/rus/main-2.png)
+![Docusaurus logo](/img/3-soft/2-start-window/1-main/eng/main-2.png)
 
-## Рабочай зона
+## Work area
+1. Tabs “Profiles“, ”Folders" for working with profiles and managing profile folders.
+2. The profile search bar also contains the number of displayed profiles.
+3. Filters allow you to filter profiles by storage type, groups and tags.
+4. Filter by folders.
+5. Sorting of displayed profiles.
+6. Profile card, which displays the main information (OS, browser, language, country of last connection, type of storage) and control buttons (start and stop).
+7. The context menu is called by the profile PCM, through which you can perform all the basic actions with the profile.
 
-1. Вкладки “Профили”, “Папки” для работы с профилями и управления папок профилей.
-2. Строка поиска профилей, так же в ней указано число отображаемых профилей.
-3. Фильтры позволяют отфильтровать профили по типу хранилища, группам и тегам.
-4. Фильтр по папкам.
-5. Сортировка отображаемых профилей.
-6. Карточка профиля, на которой отображена основная информа (ОС, браузер, язык, страна последнего подключения, тип хранилищ) и кнопки управления (старт и стоп).
-7. Контекстное меню вызывается ПКМ по профилю, через которое можно выполнить все основные действия с профилем.
-
-![Docusaurus logo](/img/3-soft/2-start-window/1-main/rus/main-3.png)
+![Docusaurus logo](/img/3-soft/2-start-window/1-main/eng/main-3.png)

@@ -1,25 +1,25 @@
 ---
 sidebar_position: 1
 id: my-account
-title: Мой аккаунт
+title: My account
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-Веб панель - cloud.undetectable.io помогает управлять пользователями, группами, ролями, сессиями и отслеживать статус облачных профилей в реальном времени.
+Web panel - [cloud.undetectable.io](https://cloud.leakshub.net/) helps to manage users, groups, roles, sessions and monitor the status of cloud profiles in real time.
 
-В разделе Мой аккаунт собранная вся основная информация о пользователе:
-1. Имя пользователя;
-2. Текущая роль;
-3. Максимальное количество одновременно запущенных сессий;
-4. Логин пользователя;
-5. Адрес электронной почты;
-6. Группы в которых состоит пользователь;
-7. Текущий статус пользователя;
-8. Дата последней активности;
-9. Дата последних изменений;
-10. Текущее количество облачных профилей;
-11. Логин пользователя;
-12. Пароль пользователя.
+In the My Account section, all the basic information about the user is collected:
+1. User name;
+2. Current role;
+3. Maximum number of simultaneously running sessions;
+4. User login;
+5. Email address;
+6. Groups that the user is a member of;
+7. Current user status;
+8. Date of last activity;
+9. Date of last changes;
+10. Current number of cloud profiles;
+11. User login;
+12. The user's password.
 
 ![Docusaurus logo](/img/2-cloud/1-my-account/eng/my-account-1.png)

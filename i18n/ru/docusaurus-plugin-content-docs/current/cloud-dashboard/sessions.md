@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
 id: sessions
-title: Сессии
+title: Sessions
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-В разделе Сессии вы можете контролировать активность пользователей и принудительно закрывать сессии. 
-Например, в случае некорректного закрытия программы, сессия осталось активной и не дает повторно авторизоваться пользователю из-за лимита. Администратор (менеджер) может принудительно её закрыть.
+In the Sessions section, you can monitor user activity and forcibly close sessions.
+For example, if the program is closed incorrectly, the session remains active and does not allow the user to re-log in due to the limit. Administrator (manager) can forcibly close it.
 
 ![Docusaurus logo](/img/2-cloud/7-sessions/eng/sessions-1.png)

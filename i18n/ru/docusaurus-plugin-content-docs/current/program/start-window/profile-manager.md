@@ -1,22 +1,22 @@
 ---
 sidebar_position: 6
 id: profile-manager
-title: Менеджер профилей
+title: Profile Manager
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-С помощью менеджера профилей вы можете распределять по папкам, удалять, архивировать, совершать импорт и экспорт. Профили можно сортировать и группировать по тегам, названиям. Рассмотрим подробнее.
-1. Поиск по профилям.
-2. Фильтры по тегам, статусу, папкам.
-3. Список созданных профилей.
-4. Выбрать все профили.
-5. Удаление.
-6. Отправить в архив.
-7. Убрать из архива.
-8. Испорт профилей.
-9. Экспорт профилей.
-10. Редактирвоание.
-11. Запуск профилей.
+With the help of the profile manager, you can distribute folders, delete, archive, import and export. Profiles can be sorted and grouped by tags, names. Let's take a closer look.
+1. Search by profiles.
+2. Filters by tags, status, folders.
+3. A list of created profiles.
+4. Select all profiles.
+5. Removal.
+6. Send to the archive.
+7. Remove from the archive.
+8. Ruin profiles.
+9. Exporting profiles.
+10. Editing.
+11. Launching profiles.
 
-![Docusaurus logo](/img/3-soft/2-start-window/6-profiles-manager/rus/profiles-manager-1.png)
+![Docusaurus logo](/img/3-soft/2-start-window/6-profiles-manager/eng/profiles-manager-1.png)

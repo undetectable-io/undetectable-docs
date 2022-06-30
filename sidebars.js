@@ -58,7 +58,8 @@ const sidebars = {
         }
       ]
     },
-    'faq'
+    'faq',
+    'other'
   ],
 
 };

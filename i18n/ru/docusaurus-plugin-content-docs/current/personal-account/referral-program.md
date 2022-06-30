@@ -1,24 +1,23 @@
 ---
 sidebar_position: 1
 id: referral-program
-title: Реферальная программа
+title: Referral program
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-
-В Undetectable есть реферальная программа для всех пользователей 7% (подробнее с условиями, можете ознакомиться [здесь](https://undetectable.io/affiliate-program-terms/). Для того чтобы стать участником необходимо перейти в раздел реферальной программы и нажать кнопку “Активировать программу”.
+Undetectable has a referral program for all 7% users (you can read more about the conditions [here](https://undetectable.io/affiliate-program-terms/). In order to become a participant, you need to go to the referral program section and click the “Activate the program” button.
 
 ![Docusaurus logo](/img/1-app/7-affiliate/eng/affiliate-1.png)
 
-После этого вам сразу откроется основное окно участника программы, где собраны вся необходимая информация и функционал:
-1. реферальная ссылка;
-2. управление балансом;
-3. статистика на текущий момент;
-4. информация о привлеченных пользователях.
+After that, you will immediately see the main window of the program participant, where all the necessary information and functionality are collected:
+1. referral link;
+2. balance management;
+3. current statistics;
+4. information about attracted users.
 
 ![Docusaurus logo](/img/1-app/7-affiliate/eng/affiliate-2.png)
 
-Предусмотрен отдельный раздел с историей выплат.
+There is a separate section with the history of payments.
 
 ![Docusaurus logo](/img/1-app/7-affiliate/eng/affiliate-3.png)
