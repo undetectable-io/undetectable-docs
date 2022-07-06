@@ -39,7 +39,7 @@
     "message": "Софт",
     "description": "The label for category Program in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Start Page": {
+  "sidebar.tutorialSidebar.category.Main Window": {
     "message": "Главное окно",
     "description": "The label for category Start Page in sidebar tutorialSidebar"
   },
