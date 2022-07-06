@@ -13,4 +13,4 @@ The more expensive the basic tariff plan, the more profitable it becomes to upgr
 * Increase the number of cloud profiles on Free and Custom tariffs;
 * Purchase more sessions per day on Custom and Professional tariffs.
 
-![Docusaurus logo](/img/1-app/3-tariff/eng/tariff-1.png)
+![Docusaurus logo](/img/1-app/3-tariff/tariff-1.png)

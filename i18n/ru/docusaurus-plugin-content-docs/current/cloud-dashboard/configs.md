@@ -1,14 +1,14 @@
 ---
 sidebar_position: 1
 id: configs
-title: Configurations
+title: Конфигурации
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-The Configuration section is intended for managing purchased configurations. Here you can:
-* view full configuration information;
-* set the configuration name;
-* disable the extra ones.
+Раздел Конфигурации предназначен для управления купленными конфигурациями. Здесь вы можете:
+* просмотреть полную информацию о конфигурации;
+* задать имя конфигурации;
+* отключить лишние.
 
 ![Docusaurus logo](/img/2-cloud/6-configs/eng/configs-1.png)

@@ -1,11 +1,31 @@
 ---
 sidebar_position: 1
 id: users
-title: Users
+title: Пользователи
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-The Users section is a convenient manager where you can view basic information about your team's users, as well as determine their role and the groups they belong to.
+Раздел Пользователи представляет собой удобный менеджер, в котором можно просматривать основную информацию по пользователям вашей команды, а также определять их роль и группы, в которых они состоят.
 
 ![Docusaurus logo](/img/2-cloud/2-users/eng/users-1.png)
+
+### Добавление нового пользователя
+
+Добавлять пользователей можно по одному или группой. 
+Рассмотрим добавление одного пользователя:
+1. вводим адрес электронной почты пользователя;
+2. присваиваем имя пользователя;
+3. задаем роль;
+4. задаем группу;
+5. отправляем приглашение.
+
+![Docusaurus logo](/img/2-cloud/2-users/eng/users-2.png)
+
+Рассмотрим добавление группы пользователей:
+1. вводим адреса электронной почты пользователей (построчно);
+2. задаем роль;
+3. задаем группу;
+4. отправляем приглашение.
+
+![Docusaurus logo](/img/2-cloud/2-users/eng/users-3.png)

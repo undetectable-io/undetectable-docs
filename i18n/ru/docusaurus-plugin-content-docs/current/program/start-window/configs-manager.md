@@ -1,19 +1,19 @@
 ---
 sidebar_position: 6
 id: configs-manager
-title: Configuration Manager
+title: Менеджер конфигураций
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-With the Configuration Manager, you can view and manage free and purchased configurations.
-1. Search bar.
-2. Filters by OS, Browser, Screen, Status, Tags.
-3. List of available configurations.
-4. Select all configurations.
-5. Send to the archive.
-6. Return from the archive.
-7. The button to go to the configuration store page.
-8. The button for updating the configuration list.
+С помощью менеджера конфигураций вы можете просматривать и управлять бесплатными и купленными конфигурациями.
+1. Строка поиска.
+2. Фильтры по ОС, Браузеру, Экрану, Статусу, Тегам.
+3. Список доступных конфигураций.
+4. Кнопка выбрать все конфигурации.
+5. Кнопка Отправить в архив.
+6. Кнопка Вернуть из архива.
+7. Кнопка перехода на страницу магазина конфигураций.
+8. Кнопка обновления списка конфигураций.
 
-![Docusaurus logo](/img/3-soft/2-start-window/7-configs-manager/eng/configs-manager-1.png)
+![Docusaurus logo](/img/3-soft/2-start-window/7-configs-manager/rus/configs-manager-1.png)

@@ -64,3 +64,25 @@ custom_edit_url: null
 6. аналогичные действия выполняем в разделе Screen Recording.
 
 ![Docusaurus logo](/img/other/anydesk/anydesk-6.jpg)
+
+## Как выдать разрешение на macOS для работы браузера
+
+Для этого необходимо выполнить следующие действия перед установкой:
+1. зайти в настройки Security & Privacy раздел General;
+2. разблокировать возможность редактирования;
+3. ввести пароль пользователя и нажать кнопку Unlock;
+4. выбрать параметр App Store and Identified developers.
+
+![Docusaurus logo](/img/other/macOS-permissions/macOS-permissions-1.png)
+
+Действия после установки:
+1. запускаем программу;
+2. появляется окно с предупреждением и нажимаем Ok;
+3. открываем настройки Security & Privacy раздел General;
+4. напротив текста “Undetectable” was blocked from opening because it is not from an identified developer нажимаем кнопку Open Anyway.
+
+![Docusaurus logo](/img/other/macOS-permissions/macOS-permissions-2.png)
+
+![Docusaurus logo](/img/other/macOS-permissions/macOS-permissions-3.png)
+
+После этих действий программа запустится.

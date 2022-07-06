@@ -1,109 +1,108 @@
 ---
 sidebar_position: 3
 id: creating-new-profile
-title: Creating a new profile
+title: Создание нового профиля
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-Consider creating a new profile:
-1. open the window for creating a new profile;
-2. enter a profile name;
-3. select storage type (local/ cloud);
-4. set the profile folder (optional), for cloud it is mandatory to select a group;
-5. select tags (optional);
-6. set profile settings: basic parameters, connection, fingerprint data (in the future, we will consider the tab data in more detail);
-7. the Profile Information field contains brief information on the main parameters, here you can specify notes to the profile and set the start pages (by entering site addresses separated by a space);
-8. the Quick Start button starts the profile without saving it (available only when selecting local storage);
-9. Save Profile button;
-10. the Open button saves and launches the profile.
+Рассмотрим создание нового профиля:
+1. открыть окно создания нового профиля;
+2. ввести имя профиля;
+3. выбрать тип хранилища (локальное / облачное);
+4. задать папку профиля (необязательно), для облачного обязательно выбрать группу;
+5. выбрать тэги (необязательно);
+6. задать настройки профиля: основные параметры, соединение, отпечатки данные (в дальнейшем данные вкладки рассмотрим более подробно);
+7. в поле Информация о профиле указана краткая информация по основным параметрам, здесь можно указать заметки к профилю и задать стартовые страницы (вводя адреса сайтов через пробел);
+8. кнопка Быстрый старт запускает профиль без его сохранения (доступно только при выборе локального хранилища);
+9. кнопка Сохранения профиля;
+10. кнопка Открыть сохраняет и запускает профиль.
 
-![Docusaurus logo](/img/3-soft/2-start-window/2-new/eng/new-1.png)
+![Docusaurus logo](/img/3-soft/2-start-window/2-new/rus/new-1.png)
 
-## Profile Settings
+## Настройки профиля
 
-1. “OS” filter of the operating system configuration.
-2. “Browser” configuration browser filter.
-3. The button for selecting a random configuration according to the specified filters.
-4. “Configuration” the selected configuration (a list of configurations by the specified filters.)
-5. The number of profiles using this configuration.
-6. The button for updating the configuration list.
-7. The “User Agent” field displays the user configuration agent (editing is possible).
-8. “Checking the compatibility of the User-Agent with the profile configuration.”
-9. “Screen” screen resolution selection.
-10. “CPU, cores” selection of the number of processor cores.
-11. “Memory, GB” selection of the amount of RAM.
-12. “Language” language selection.
-13. “Additional language” select an additional language.
-14. “Accept-Language" displays the selected languages (manual editing is possible).
+1. “ОС” фильтр операционной системы конфигурации.
+2. “Браузер” фильтр браузера конфигурации.
+3. Кнопка подбора случайной конфигурации по заданным фильтрам.
+4. “Конфигурация” выбранная конфигурация (список конфигураций по заданным фильтрам.)
+5. Количество профилей, использующих данную конфигурацию.
+6. Кнопка обновления списка конфигураций.
+7. Поле “User Agent” отображает юзер агент конфигурации (возможно редактирование).
+8. “Проверка совместимости User-Agent с конфигурацией профиля”.
+9. “Экран” выбор разрешения экрана.
+10. “ЦПУ, ядра” выбор количества ядер процессора.
+11. “Память, ГБ” выбор объема оперативной памяти.
+12. “Язык” выбор языка.
+13. “Дополнительный язык” выбор дополнительного языка.
+14. “Accept-Language” отображение выбранных языков (возможно ручное редактирование).
 
-![Docusaurus logo](/img/3-soft/2-start-window/2-new/eng/new-2.png)
+![Docusaurus logo](/img/3-soft/2-start-window/2-new/rus/new-2.png)
 
-## Proxy
+## Прокси
 
-1. Drop-down list where you can select:
-* no proxy;
-* add saved;
-* a new proxy.
-2. Choosing the proxy type (https, socks5).
-3. Copy Proxy button.
-4. Proxy host.
-5. Proxy port.
-6. Proxy login.
-7. Proxy password.
-8. For mobile proxies, a link to change IP and an IP update button.
-9. IP update button by link.
-10. Proxy status check button.
-11. Fields for entering the proxy name.
-12. Save proxy button.
+1. Выпадающий список, где можно выбрать:
+* нет прокси;
+* добавить сохраненный;
+* новый прокси.
+2. Выбор типа прокси (https, socks5).
+3. Кнопка Скопировать прокси.
+4. Поля ввода для данных прокси Хост.
+5. Поля ввода для данных прокси Порт.
+6. Поля ввода для данных прокси Логин.
+7. Поля ввода для данных прокси Пароль.
+8. Для мобильных прокси Ссылка для смены IP.
+9. Кнопка обновления IP.
+10. Кнопка проверки состояния прокси.
+11. Поля для ввода имени прокси.
+12. Кнопка сохранения прокси. 
 
-![Docusaurus logo](/img/3-soft/2-start-window/2-new/eng/new-3.png)
+![Docusaurus logo](/img/3-soft/2-start-window/2-new/rus/new-3.png)
 
-## Network fingerprints
+## Сетевые отпечатки
 
-1. WebRTC Fingerprints;
-2. geolocation;
-3. time zone (by default, they are automatically selected according to your (proxy) ip, if desired, you can do it manually for more precise settings);
-4. The MaxMinde button, when pressed, determines the data corresponding to your IP and sets the geolocation and time zone.
+1. Отпечатки WebRTC.
+2. Геолокация.
+3. Часовой пояс. 
+По умолчанию автоматически подбираются в соответствии с вашим (прокси) ip. При желании для более точной настройки вы можете сделать это вручную.
+4. Кнопка MaxMinde при нажатии определяет данные соответствующие вашему IP и задает геолокацию и часовой пояс.
 
-![Docusaurus logo](/img/3-soft/2-start-window/2-new/eng/new-4.png)
+![Docusaurus logo](/img/3-soft/2-start-window/2-new/rus/new-4.png)
 
-## System fingerprints
+## Системные отпечатки
 
-1. Substitution of Canvas prints.
-2. Substitution of AudioContext prints.
-3. Substitution of WebGL fingerprints.
-4. Substitution of WebGL image prints.
-5. Setting the window size as in the configuration.
-6. Font substitution.
+1. Подмена отпечатков Canvas.
+2. Подмена отпечатков AudioContext.
+3. Подмена отпечатков WebGL.
+4. Подмена отпечатков WebGL image.
+5. Установка размера окна как в конфигурации.
+6. Подмена шрифтов.
 
-![Docusaurus logo](/img/3-soft/2-start-window/2-new/eng/new-5.png)
 
-## Cookies
+![Docusaurus logo](/img/3-soft/2-start-window/2-new/rus/new-5.png)
 
-1. Viewing and editing current cookies;
-2. Importing cookies;
-3. Add a new cookie manually;
-4. Cookie display field;
-5. Edit;
-6. Export;
-7. Remove;
-8. Copy;
-9. Delete all cookies.
+## Куки
 
-![Docusaurus logo](/img/3-soft/2-start-window/2-new/eng/new-6.png)
+1. Просмотр и редактирование текущих куки.
+2. Импорт куки.
+3. Добавить новый куки вручную.
+4. Поле отображение куки.
+5. Правка куки. 
+6. Экспорт куки.
+7. Удалить куки.
+8. Копировать куки.
+9. Удалить все куки.
 
-## Accounts
+![Docusaurus logo](/img/3-soft/2-start-window/2-new/rus/new-6.png)
 
-1. The field of current saved accounts;
-2. delete;
-3. export;
-4. import;
-5. edit;
-6. site url;
-7. login;
-8. password;
-9. password display button;
-10. the add button.
+## Аккаунты
 
-![Docusaurus logo](/img/3-soft/2-start-window/2-new/eng/new-7.png)
+1. Поле текущих сохраненных аккаунтов (1).
+2. Удалить аккаунт.
+3. Экспорт аккаунтов.
+4. Импорт аккаунтов.
+5. Правка аккаунта.
+
+Для добавления аккаунта заполняем Адрес сайта (6), Логин (7), Пароль (8) (кнопка отображения пароля (9)) и нажимаем добавить (10).
+
+![Docusaurus logo](/img/3-soft/2-start-window/2-new/rus/new-7.png)

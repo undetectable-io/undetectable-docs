@@ -1,18 +1,20 @@
 ---
 sidebar_position: 1
 id: authentication
-title: Authentication
+title: Аутентификация
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-1. In the “Login” field, enter the login that you specified during registration or that was sent to you by e-mail in the invitation letter.
-2. In the “Password” field, enter the password for the account.
-3. Displaying and hiding the password.
-4. The “Remember me” checkbox (when filled in, saves the login and password of the last session).
-5. The login button.
+1. В поле “Логин” вводиться логин, который вы указали при регистрации или который вам прислали по электронной почте в пригласительном письме.
+2. В поле “Пароль” вводится пароль от учетной записи.
+3. Отображение и скрытие пароля.
+4. Чек-бокс “Запомнить меня” (когда заполнен, сохраняет логин и пароль последней сессии).
+5. Кнопка авторизации “Войти”.
 
-Possible errors:
-* Wrong authentication data - invalid authentication data (check the input data).
+Возможные ошибки: 
+* Wrong authentication data - неверные данные аутентификации;
+* Your license has expired - истёк срок действия лицензии;
+* The limit has been reached - превышен лимит активных сессий.
 
-![Docusaurus logo](/img/3-soft/1-authentication/eng/authentication-1.png)
+![Docusaurus logo](/img/3-soft/1-authentication/rus/authentication-1.png)

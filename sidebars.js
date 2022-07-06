@@ -44,7 +44,7 @@ const sidebars = {
         'program/authentication',
         {
           type: 'category',
-          label: 'Start Page',
+          label: 'Main Window',
           items: [
             'program/start-window/overview-main-window', 'program/start-window/creating-new-profile', 'program/start-window/mass-creation', 'program/start-window/profile-manager', 'program/start-window/proxy-manager', 'program/start-window/tag-manager', 'program/start-window/configs-manager', 'program/start-window/bot', 'program/start-window/help', 'program/start-window/settings',
           ],

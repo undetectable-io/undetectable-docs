@@ -1,18 +1,20 @@
 ---
 sidebar_position: 1
 id: roles
-title: Roles
+title: Роли
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-The Roles section is designed to manage user access. By default, 2 roles are created: administrator and user.
+Раздел Роли предназначен для управления доступами пользователей. По умолчанию созданы 2 роли : администратор и пользователь.
 
 ![Docusaurus logo](/img/2-cloud/5-roles/eng/roles-1.png)
 
-If necessary, you can create your own roles using the permissions list.
-For example, you can prohibit or allow the creation of profiles (cloud / local), access to configurations, editing roles and groups.
-Created roles can be edited.
+При необходимости вы можете создать свои роли, используя список разрешений.
+
+Например, вы можете запретить или разрешить создание профилей (облачных / локальных), доступ к конфигурациям, редактирования ролей и групп.
+
+Созданные роли возможно редактировать.
 
 ![Docusaurus logo](/img/2-cloud/5-roles/eng/roles-2.png)
 

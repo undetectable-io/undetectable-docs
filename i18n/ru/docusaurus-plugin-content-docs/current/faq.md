@@ -7,57 +7,80 @@ custom_edit_url: null
 
 import ReactPlayer from 'react-player'
 
-## In which folder are profiles stored and can it be changed?
+## В какой папке хранятся профили и можно ли её изменить?
 
-The storage location of profiles can be found in the settings in the “Main" tab. The storage folder can be changed to another one. Clicking on the “Path to the profile folder” field opens options for interacting with ready-made profiles (they can be left in the old folder, copied or moved to a new one).
+Место хранения профилей можно узнать в настройках во вкладке “Основное”. Папку хранения можно изменить на другую. При нажатии на поле “Путь до папки с профилями” откроются варианты взаимодействия с уже готовыми профилями (их можно оставить в старой папке, скопировать или перенести в новую).
 
-![Docusaurus logo](/img/FAQ/eng/faq-1.png)
+![Docusaurus logo](/img/FAQ/rus/faq-1.png)
 
-## How do I set an empty tab for the start page?
+## Как задать пустую вкладку для стартовой страницы?
 
-In the field of the start page, you need to specify about:blank.
+В поле стартовой страницы нужно указать about:blank.
 
-![Docusaurus logo](/img/FAQ/eng/faq-2.png)
+![Docusaurus logo](/img/FAQ/rus/faq-2.png)
 
-## How do I set multiple start pages?
+## Как задать несколько стартовых страниц?
 
-In the home page field, you need to specify the sites separated by a space.
+В поле стартовой страницы нужно указать сайты через пробел.
 
-![Docusaurus logo](/img/FAQ/eng/faq-3.png)
+![Docusaurus logo](/img/FAQ/rus/faq-3.png)
 
-## How do I transfer local profiles to another device?
+## Как перенести локальные профили на другое устройство?
 
-Use the export/import profiles function in the Profile Manager window.
+Воспользуйтесь функцией экспорт / импорт профилей в окне менеджер профилей.
 
-![Docusaurus logo](/img/FAQ/eng/faq-4.png)
+![Docusaurus logo](/img/FAQ/rus/faq-4.png)
 
-## How to set a folder/tag/proxy for multiple profiles?
+## Как нескольким профилям задать папку/тег/прокси?
 
-It is convenient to do this from the profile manager. Select the required profiles and right-click on them, in the context menu that appears, click on the required value.
+Это удобно сделать из менеджера профилей. Выберите необходимые профили и нажмите на них правой кнопкой, в появившемся контекстном меню нажмите на необходимое значение.
 
-![Docusaurus logo](/img/FAQ/eng/faq-5.png)
+![Docusaurus logo](/img/FAQ/rus/faq-5.png)
 
-## How do I export cookies/accounts from multiple profiles?
+## Как экспортировать куки/аккаунты с нескольких профилей?
 
-To do this, go to the profile manager, select the necessary profiles, right-click on them (thereby calling the context menu) and select the necessary export.
+Для этого необходимо зайти в менеджер профилей, выбрать необходимые профили, нажать на них правой кнопкой (тем самым вызвать контекстное меню) и выбрать необходимый экспорт.
 
-![Docusaurus logo](/img/FAQ/eng/faq-6.png)
+![Docusaurus logo](/img/FAQ/rus/faq-6.png)
 
-## How do I insert text as a person?
+## Как сделать вставку текста как человек?
 
-To do this, use the Ctrl + b hotkeys or right-click on the text field and select “Insert as a person.”
+Для этого необходимо воспользоваться горячими клавишами Ctrl + b или нажать правой кнопки на текстовое поле и выбрать пункт “Вставить как человек”.
 
-![Docusaurus logo](/img/FAQ/eng/faq-7.png)
+## Как запустить скрипт на странице в браузере?
 
-## How do I run a script on a page in a browser?
+Для добавления своего скрипта необходимо выполнить следующие действия:
+1. открыть Настройки;
+2. перейти во вкладку Скрипты;
+3. в поле Новый скрипт добавить код скрипта;
+4. в поле Имя скрипта добавить необходимое название;
+5. нажать кнопку Добавить, после чего новый скрипт появится в списке;
+6. нажать на чек-бокс необходимого скрипта из списка;
+7. нажать кнопку Сохранить.
 
-To add your own script, follow these steps:
-1. open Settings;
-2. go to the Scripts tab;
-3. in the New script field, add the script code;
-4. in the Script Name field, add the required name;
-5. click the Add button, after which the new script will appear in the list;
-6. click on the check-box of the required script from the list;
-7. click the Save button.
+![Docusaurus logo](/img/FAQ/rus/faq-7.png)
 
-![Docusaurus logo](/img/FAQ/eng/faq-8.png)
+Для запуска скрипта на странице: 
+1. нажмите ПКМ по странице;
+2. выберите пункт Пользовательские скрипты;
+3. из появившегося списка выберите необходимый скрипт.
+
+![Docusaurus logo](/img/FAQ/rus/faq-8.png)
+
+## При авторизации появляется ошибка “The limit has been reached”, что делать?
+
+Эта ошибка связана с тем, что у вас закончился лимит активных сессий. Возможно при прошлом использовании некорректно закрылась программа и сессия осталась активной.
+Для того чтобы закрыть эти сессии, необходимо выполнить следующие действия:
+1. зайти на страницу https://cloud.undetectable.io/ и авторизоваться;
+2. перейти во вкладку Сессии;
+3. выбрать сессию, которую вы хотите закрыть (или все сессии);
+4. выбрать в столбце Действия функцию Удалить (при выборе нескольких сессий появится кнопка Отключить.
+При отключении сессии у локальных и закрытых облачных профилей данные не будут утеряны.
+
+![Docusaurus logo](/img/FAQ/rus/faq-9.png)
+
+## Как установить расширения в браузер?
+В данный момент установка расширений недоступна, данный функционал находится в разработке.
+
+## Как использовать автоматизацию для браузера?
+В данный момент установка расширений недоступна, данный функционал находится в разработке.

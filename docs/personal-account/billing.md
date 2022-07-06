@@ -12,4 +12,4 @@ The following information is provided on the invoiced page:
 3. saved payment methods;
 4. information about accounts (held, cancelled, current).
 
-![Docusaurus logo](/img/1-app/5-billing/eng/billing-1.png)
+![Docusaurus logo](/img/1-app/4-upgrade/eng/upgrade-3.png)

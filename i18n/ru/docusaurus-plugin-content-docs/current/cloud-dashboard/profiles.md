@@ -1,11 +1,18 @@
 ---
 sidebar_position: 1
 id: profiles
-title: Profiles
+title: Профили
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-The Profiles section allows you to view complete information, monitor the current status of cloud profiles (by status or by action log) and manage them (transfer between groups, unlock and delete).
+Раздел Профили позволяет просматривать полную информацию, контролировать текущее состояние облачных профилей (по статусу или по логу действий) и управлять ими (переносить между группами или удалять).
 
-![Docusaurus logo](/img/2-cloud/3-profiles/eng/profiles-1.png)
+![Docusaurus logo](/img/2-cloud/3-profiles/eng/profile-1.png)
+
+Могут возникнуть случаи при которых вам будет необходимо разблокировать профиль, находящийся в статусе Locked. Для этого вам необходимо выполнить следующие действия:
+нажать на статус “Locked”;
+ввести в появившемся окне в текстовое поле слово “RESET”;
+нажать кнопку Reset.
+
+![Docusaurus logo](/img/2-cloud/3-profiles/eng/profile-2.png)

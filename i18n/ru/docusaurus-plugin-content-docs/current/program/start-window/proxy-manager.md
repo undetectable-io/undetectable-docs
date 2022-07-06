@@ -1,21 +1,21 @@
 ---
 sidebar_position: 5
 id: proxy-manager
-title: Proxy Manager
+title: Менеджер прокси
 custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-In the proxy manager, you can create/delete and edit proxies en masse or individually. Let's look at the functionality in more detail.
-1. Search by added proxy.
-2. Proxy filter by status.
-3. The field for displaying the added proxies.
-4. Selecting all proxies.
-5. Removal.
-6. Checking the proxy status.
-7. Importing a proxy.
-8. Exporting a proxy.
-9. Editing the proxy.
-10. Adding a single new proxy.
+В менеджере прокси можно создавать / удалять и редактировать прокси массово или единично. Рассмотрим функционал подробнее.
+1. Поиск по добавленным прокси.
+2. Фильтр прокси по статусу.
+3. Поле отображения добавленных прокси.
+4. Кнопка Выбора всех прокси.
+5. Кнопка Удаления.
+6. Проверки статуса прокси.
+7. Кнопки массового импорта.
+8. Экспорта прокси.
+9. Редактирование прокси.
+10. Добавление единичного нового прокси.
 
-![Docusaurus logo](/img/3-soft/2-start-window/4-proxies/eng/proxies-1.png)
+![Docusaurus logo](/img/3-soft/2-start-window/4-proxies/rus/proxies-1.png)

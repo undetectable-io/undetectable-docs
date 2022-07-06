@@ -16,4 +16,4 @@ With the Configuration Manager, you can view and manage free and purchased confi
 7. The button to go to the configuration store page.
 8. The button for updating the configuration list.
 
-![Docusaurus logo](/img/3-soft/2-start-window/7-configs-manager/eng/configs-manager-1.png)
+![Docusaurus logo](/img/3-soft/2-start-window/7-configs-manager/eng/configs-1.png)
