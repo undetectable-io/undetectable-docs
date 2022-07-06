@@ -12,3 +12,5 @@ import ReactPlayer from 'react-player'
 - Mass profile creation and account import.
 - Built-in Cookie Bot for warming up the profile.
 - Personal cloud storage.
+
+![Docusaurus logo](/img/introduction/introduction-2.png)

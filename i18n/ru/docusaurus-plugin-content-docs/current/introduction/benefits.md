@@ -12,3 +12,5 @@ import ReactPlayer from 'react-player'
 - Массовое создание профилей и импорт аккаунтов. 
 - Встроенный Cookies Бот для прогрева профиля.
 - Персональное облачное хранилище.
+
+![Docusaurus logo](/img/introduction/introduction-2.png)
