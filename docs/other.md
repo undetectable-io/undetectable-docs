@@ -40,3 +40,54 @@ Setting up an Undetectable profile:
 ![Docusaurus logo](/img/other/proxies-911/proxies-911-4.jpg)
 
 Save the settings and start the profile.
+
+## Setting up an ssh tunnel on Windows and macOS
+
+**Setting up an ssh tunnel on Windows**
+
+1. Installing Putty.
+2. Launching.
+3. Enter the host and port from your SSH tunnel.
+
+![Docusaurus logo](/img/other/putty/putty-1.png)
+
+4. Configure the local port to which we will connect from Undetectable (it can be anything, as long as it is free). Type Dynamic Ipv4. Click Add.
+
+![Docusaurus logo](/img/other/putty/putty-2.png)
+
+5. After that, you can go back to Sessions and save the settings so that you don’t have to enter data every time.
+
+![Docusaurus logo](/img/other/putty/putty-3.png)
+
+6. Click Open, the terminal opens, where you need to enter the login and password for your SSH tunnel.
+
+7. After that you can open Undetectable. There you choose any profile and on the Proxy tab configure: proxy type Socks5, Host 127.0.0.1 and the port that you selected in the fourth step. Click Check to verify.
+
+![Docusaurus logo](/img/other/putty/putty-4.png)
+
+This way you can start many SSH tunnels by running multiple copies of Putty, putting them on different ports and connecting from different Undetectable profiles to them.
+
+**Setting up an ssh tunnel on Mac OS**
+
+Launch the terminal and enter the command ssh root@10.10.10.10 -D 1080
+
+1. Instead of root, write the login for your tunnel.
+2. Instead of 10.10.10.10 enter the IP for your tunnel.
+3. Instead of 1080, enter the port that you will later specify in the program settings.
+4. Enter your password.
+
+![Docusaurus logo](/img/other/putty/putty-5.png)
+
+![Docusaurus logo](/img/other/putty/putty-6.png)
+
+You need to configure a new proxy in the program
+
+1. Select socks5
+2. Enter the local IP 127.0.0.1
+3. Enter the port you specified when configuring the ssh tunnel
+
+![Docusaurus logo](/img/other/putty/putty-7.png)
+
+When the ssh tunnel comes up, you can check if the proxy is working.
+
+This way you can start many SSH tunnels, hanging them on different ports and connecting from different Undetectable profiles to them.
