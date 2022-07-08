@@ -58,3 +58,8 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 main > div.container {
   max-width: 90% !important;
 }
+
+
+video {
+  max-width: 100%;
+}
