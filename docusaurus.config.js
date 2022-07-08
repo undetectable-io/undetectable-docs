@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Undetectable Docs",
-  url: "https://docs.undetectable.io/",
+  url: "https://docs.undetectable.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
