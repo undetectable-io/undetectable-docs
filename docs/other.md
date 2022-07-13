@@ -91,3 +91,52 @@ You need to configure a new proxy in the program
 When the ssh tunnel comes up, you can check if the proxy is working.
 
 This way you can start many SSH tunnels, hanging them on different ports and connecting from different Undetectable profiles to them.
+
+## How do I issue permissions for Anydesk on MacOS to be able to connect tech support?
+
+To do this, the following steps are required:
+1. After installing and starting Anydesk, click on the button in the red message;
+
+![Docusaurus logo](/img/other/anydesk/anydesk-1.png)
+
+2. In the window that appears, select the "Open System Preferences" button;
+
+![Docusaurus logo](/img/other/anydesk/anydesk-2.png)
+
+3. In the Accessibility section click on the button to make changes;
+
+![Docusaurus logo](/img/other/anydesk/anydesk-3.png)
+
+4. enter the password and confirm;
+
+![Docusaurus logo](/img/other/anydesk/anydesk-4.png)
+
+5. Fill in the checkbox in the AnyDesk line;
+
+![Docusaurus logo](/img/other/anydesk/anydesk-5.png)
+
+6. Perform the same actions in the Screen Recording section.
+
+![Docusaurus logo](/img/other/anydesk/anydesk-6.jpg)
+
+## How to give permission to macOS to run the browser
+
+To do this, follow these steps before installing:
+1. go to Security & Privacy settings section General;
+2. Unlock the ability to edit;
+3. enter your user password and press the Unlock button;
+4. select the App Store and Identified developers option.
+
+![Docusaurus logo](/img/other/macOS-permissions/macOS-permissions-1.png)
+
+Actions after installation:
+1. run the program;
+2. A warning window appears and press Ok;
+3. Open the Security & Privacy settings section General;
+4. Press the Open Anyway button against the text "Undetectable" was blocked from opening because it is not from an identified developer.
+
+![Docusaurus logo](/img/other/macOS-permissions/macOS-permissions-2.png)
+
+![Docusaurus logo](/img/other/macOS-permissions/macOS-permissions-3.png)
+
+After these actions the program will start.

@@ -14,5 +14,7 @@ import ReactPlayer from 'react-player'
 
 Possible errors:
 * Wrong authentication data - invalid authentication data (check the input data).
+* Your license has expired - The license has expired;
+* The limit has been reached - The limit of active sessions has been exceeded.
 
 ![Docusaurus logo](/img/3-soft/1-authentication/eng/authentication-1.png)

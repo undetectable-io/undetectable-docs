@@ -14,7 +14,7 @@ import ReactPlayer from 'react-player'
 5. “Profiles" opens the “Profile Manager" window.
 6. Configs opens the Configuration Manager window.
 7. “Bot“ opens the ”Bot" window (used to warm up profiles).
-8. “Partners” translates to a page with our partners.
+8. "Help" here are links to this documentation, partners and links to chats with technical support.
 9. “Settings” opens the “Settings” window (change the profile storage folder, default profile settings, add scripts).
 
 ![Docusaurus logo](/img/3-soft/2-start-window/1-main/eng/main-1.png)

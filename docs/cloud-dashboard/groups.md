@@ -17,3 +17,11 @@ Users can be given access to multiple groups.
 Cloud profiles can be moved between groups.
 
 ![Docusaurus logo](/img/2-cloud/4-groups/eng/groups-1.png)
+
+To create a group perform the following actions:
+1. Press the "New group" button;
+2. Enter the name of the group;
+3. Add the required users;
+4. Click the "Save changes" button.
+
+![Docusaurus logo](/img/2-cloud/4-groups/eng/groups-2.png)

@@ -20,6 +20,6 @@ In the My Account section, all the basic information about the user is collected
 9. Date of last changes;
 10. Current number of cloud profiles;
 11. User login;
-12. The user's password.
+12. The user's password (here you can set a new password for the cloud dashboard and program).
 
 ![Docusaurus logo](/img/2-cloud/1-my-account/eng/my-account-1.png)
