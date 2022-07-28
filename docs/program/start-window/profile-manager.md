@@ -6,6 +6,9 @@ custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
+
+<ReactPlayer playing controls url='/video/video.mp4' />
+
 With the help of the profile manager, you can distribute folders, delete, archive, import and export. Profiles can be sorted and grouped by tags, names. Let's take a closer look.
 1. Search by profiles.
 2. Filters by tags, status, folders.

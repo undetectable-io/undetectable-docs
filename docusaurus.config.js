@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Undetectable Docs",
-  url: "https://docs.undetectable.io/",
+  url: "https://docs.undetectable.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -20,11 +20,10 @@ const config = {
     locales: ["en", "ru"],
     localeConfigs: {
       en: {
-        htmlLang: "en-GB",
+        htmlLang: "en",
       },
-      // You can omit a locale (e.g. fr) if you don't need to override the defaults
       ru: {
-        htmlLang: "ru-RU",
+        htmlLang: "ru",
 
       },
     },

@@ -5992,7 +5992,7 @@ react-loadable-ssr-addon-v5-slorber@^1.0.1:
 
 react-player@^2.10.1:
   version "2.10.1"
-  resolved "https://registry.npmjs.org/react-player/-/react-player-2.10.1.tgz"
+  resolved "https://registry.yarnpkg.com/react-player/-/react-player-2.10.1.tgz#f2ee3ec31393d7042f727737545414b951ffc7e4"
   integrity sha512-ova0jY1Y1lqLYxOehkzbNEju4rFXYVkr5rdGD71nsiG4UKPzRXQPTd3xjoDssheoMNjZ51mjT5ysTrdQ2tEvsg==
   dependencies:
     deepmerge "^4.0.0"
