@@ -61,3 +61,15 @@ To add your own script, follow these steps:
 7. click the Save button.
 
 ![Docusaurus logo](/img/FAQ/eng/faq-8.png)
+
+## During authorization an error "The limit has been reached" appears, what should I do?
+
+This error is caused by the fact that you have reached your limit of active sessions. Probably, the program was closed incorrectly during the last use and the session remained active.
+In order to close these sessions you need to perform the following actions:
+1. go to the https://cloud.undetectable.io/ page and log in;
+2. go to the Sessions tab;
+3. Select the session you want to close (or all sessions);
+4. select the Delete function in the Actions column (if you select more than one session, the Disconnect button appears.
+No data will be lost in local and closed cloud profiles when you disconnect a session.
+
+![Docusaurus logo](/img/FAQ/eng/faq-9.png)
