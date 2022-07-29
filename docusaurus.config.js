@@ -14,7 +14,7 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "undetectable-io", // Usually your GitHub org/user name.
   projectName: "undetectable-docs", // Usually your repo name.
-
+  trailingSlash: false,
   i18n: {
     defaultLocale: "en",
     locales: ["en", "ru"],
@@ -68,6 +68,7 @@ const config = {
       //     scrollOffset: 0,
       //   },
       // },
+
       navbar: {
         logo: {
           alt: "Undetectable Logo",
