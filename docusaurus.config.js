@@ -80,29 +80,34 @@ const config = {
             position: "left",
             label: "Home",
             to: "https://undetectable.io/",
+            rel: "dofollow",
           },
           {
             position: "left",
             label: "Pricing",
             to: "https://undetectable.io/pricing/",
+            rel: "dofollow",
           },
 
           {
             position: "left",
             label: "Changelog",
             to: "https://undetectable.io/changelog/",
+            rel: "dofollow",
           },
 
           {
             position: "left",
             label: "Blog",
             to: "https://undetectable.io/blog/",
+            rel: "dofollow"
           },
 
           {
             position: "left",
             label: "Download",
             to: "https://undetectable.io/download/",
+            rel: "dofollow"
           },
 
 
