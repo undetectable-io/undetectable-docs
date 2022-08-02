@@ -6,7 +6,7 @@ custom_edit_url: null
 ---
 import ReactPlayer from 'react-player'
 
-Web panel - [cloud.undetectable.io](https://cloud.leakshub.net/) helps to manage users, groups, roles, sessions and monitor the status of cloud profiles in real time.
+Web panel - [cloud.undetectable.io](https://cloud.undetectable.io/) helps to manage users, groups, roles, sessions and monitor the status of cloud profiles in real time.
 
 In the My Account section, all the basic information about the user is collected:
 1. User name;
